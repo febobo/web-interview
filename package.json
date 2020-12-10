@@ -1,0 +1,28 @@
+{
+  "name": "web-interview",
+  "version": "1.0.0",
+  "description": "web面试题库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/febobo/web-interview.git"
+  },
+  "keywords": [
+    "web",
+    "interview"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/febobo/web-interview/issues"
+  },
+  "homepage": "https://github.com/febobo/web-interview#readme",
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}

@@ -1,6 +1,6 @@
 ## 关于我们
  <p>
-<img  style="max-width:400px; width:400px;" src="https://static.vue-js.com/1860fa20-443b-11eb-ab90-d9ae814b240d.png"/>
+<img  width="400px" style="max-width:400px; width:400px;" src="https://static.vue-js.com/1860fa20-443b-11eb-ab90-d9ae814b240d.png"/>
 </p>
 
 
@@ -25,13 +25,13 @@ JS每日一题是一个语音答题社群：
 先晒晒平常我们的样子
 
 <p>
-<img  style="max-width:600px; width:600px;" src="https://user-images.githubusercontent.com/9276376/102876713-90c0f700-4480-11eb-880f-613f8f0f5042.png"/>
+<img width="600px"  style="max-width:600px; width:600px;" src="https://user-images.githubusercontent.com/9276376/102876713-90c0f700-4480-11eb-880f-613f8f0f5042.png"/>
 </p>
 
 如果你也有兴趣，欢迎扫描下方二维码加入我们
 
 <p>
-  <img  style="max-width:200px; width:200px; height: 100px" src="https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png"/>
+  <img  width="200px" style="max-width:200px; width:200px; height: 100px" src="https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png"/>
 </p>
 
 我们现在正在进行的是Vue面试官系列，这个系列本质是根据面试题去反推学习某个知识点，绝不仅限于应对面试，而是真真切切要从中学到相关的知识，并且是真真正正能用上的知识点

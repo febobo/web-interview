@@ -29,7 +29,7 @@ JS每日一题是一个语音答题社群：
 如果你也有兴趣，欢迎扫描下方二维码加入我们
 
 <p>
-  <img  style="width:200px; height: 200px" src="https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png"/>
+  <img  style="width:100px; height: 100px" src="https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png"/>
 </p>
 
 我们现在正在进行的是Vue面试官系列，这个系列本质是根据面试题去反推学习某个知识点，绝不仅限于应对面试，而是真真切切要从中学到相关的知识，并且是真真正正能用上的知识点

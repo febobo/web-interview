@@ -58,6 +58,13 @@ JS每日一题是一个语音答题社群：
 - [面试官：Vue常用的修饰符有哪些？有什么应用场景？](https://github.com/febobo/web-interview/issues/20)
 - [面试官：你有写过自定义指令吗？自定义指令的应用场景有哪些？](https://github.com/febobo/web-interview/issues/21)
 - [面试官：Vue中的过滤器了解吗？过滤器的应用场景有哪些？](https://github.com/febobo/web-interview/issues/22)
+- [面试官：什么是虚拟DOM？如何实现一个虚拟DOM？说说你的思路](https://github.com/febobo/web-interview/issues/23)
+- [面试官：了解过vue中的diff算法吗？说说看](https://github.com/febobo/web-interview/issues/24)
+- [面试官：Vue项目中有封装过axios吗？怎么封装的？](https://github.com/febobo/web-interview/issues/25)
+- [面试官：你了解Axios的原理吗？有看过它的源码吗？](https://github.com/febobo/web-interview/issues/26)
+- [面试官：SSR解决了什么问题？有做过SSR吗？你是怎么做的？](https://github.com/febobo/web-interview/issues/27)
+- [面试官：说下你的vue项目的目录结构，如果是大型项目你该怎么划分结构和划分组件呢？](https://github.com/febobo/web-interview/issues/28)
+- [面试官：Vue要做权限管理该怎么做？控制到按钮级别的权限怎么做？](https://github.com/febobo/web-interview/issues/29)
 
 ## 未来
 

@@ -61,6 +61,16 @@ module.exports = {
           ["vue/modifier", "Vue常用的修饰符有哪些？有什么应用场景？"],
           ["vue/directive", "你有写过自定义指令吗？自定义指令的应用场景有哪些？"],
           ["vue/filter", "Vue中的过滤器了解吗？过滤器的应用场景有哪些？"],
+          ["vue/vnode", "什么是虚拟DOM？如何实现一个虚拟DOM？说说你的思路"],
+          ["vue/diff", "你了解vue的diff算法吗？说说看"],
+          ["vue/axios", "Vue项目中有封装过axios吗？主要是封装哪方面的？"],
+          ["vue/axiosCode", "你了解axios的原理吗？有看过它的源码吗？"],
+          ["vue/ssr", "SSR解决了什么问题？有做过SSR吗？你是怎么做的？"],
+          ["vue/structure", "说下你的vue项目的目录结构，如果是大型项目你该怎么划分结构和划分组件呢？"],
+          ["vue/permission", "vue要做权限管理该怎么做？如果控制到按钮级别的权限怎么做？"],
+          // ["vue/cors", "Vue项目中你是如何解决跨域的呢？"],
+          // ["vue/filter", "vue项目本地开发完成后部署到服务器后报404是什么原因呢？"],
+          // ["vue/filter", "你是怎么处理vue项目中的错误的？"],
           // ["start/overview", "导读 | Vue3设计理念"]
         ],
       }

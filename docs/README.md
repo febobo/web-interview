@@ -1,5 +1,11 @@
+避免失联可以先点star
+
+[在线阅读](https://vue3js.cn/interview)
+
 ## 关于我们
- ![image.png](https://static.vue-js.com/1860fa20-443b-11eb-ab90-d9ae814b240d.png)
+ <p>
+<img  width="400px" style="max-width:400px; width:400px;" src="https://static.vue-js.com/1860fa20-443b-11eb-ab90-d9ae814b240d.png"/>
+</p>
 
 
 本仓库内容全部来自于 **@公众号:JS每日一题**
@@ -11,7 +17,7 @@ JS每日一题是一个语音答题社群：
 每天的打卡都是一次思维整理输出的训练，将自己想要表达的内容放入框架中再输出，使表达更简洁和系统
 
 #### 为什么要用语音？
-- 用语言复述一件事物是锻练表达能力的最佳路径
+- 用语言复述一件事物是锻练表达能力的最佳路径
 - 你以为的并不是你以为的，你可能会但你不一定会说
 
 ####  打卡困境：题太简单或者太难？
@@ -23,13 +29,13 @@ JS每日一题是一个语音答题社群：
 先晒晒平常我们的样子
 
 <p>
-<img  style="width:600px;" src="https://user-images.githubusercontent.com/9276376/102876713-90c0f700-4480-11eb-880f-613f8f0f5042.png"/>
+<img width="600px"  style="max-width:600px; width:600px;" src="https://user-images.githubusercontent.com/9276376/102876713-90c0f700-4480-11eb-880f-613f8f0f5042.png"/>
 </p>
 
 如果你也有兴趣，欢迎扫描下方二维码加入我们
 
 <p>
-  <img  style="width:200px; height: 200px" src="https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png"/>
+  <img  width="200px" style="max-width:200px; width:200px; height: 100px" src="https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png"/>
 </p>
 
 我们现在正在进行的是Vue面试官系列，这个系列本质是根据面试题去反推学习某个知识点，绝不仅限于应对面试，而是真真切切要从中学到相关的知识，并且是真真正正能用上的知识点
@@ -68,21 +74,21 @@ JS每日一题是一个语音答题社群：
 
 ## 未来
 
-### 面试官React系列/共计33道
+### 面试官React系列/精选33道
 筹备中..
-### 面试官手写系列/共计33道
+### 面试官手写系列/精选33道
 筹备中..
-### 面试官HTTP系列/共计33道
+### 面试官HTTP系列/精选33道
 筹备中..
-### 面试官JavaScript基础系列/共计33道
+### 面试官JavaScript基础系列/精选33道
 筹备中..
-### 面试官CSS系列/共计33道
+### 面试官CSS系列/精选33道
 筹备中..
-### 面试官算法系列/共计33道
+### 面试官算法系列/精选33道
 筹备中..
-### 面试官浏览器系列/共计33道
+### 面试官浏览器系列/精选33道
 筹备中..
-### 面试官前端构建系列/共计33道
+### 面试官前端构建系列/精选33道
 筹备中..
 
 

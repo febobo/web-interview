@@ -2,6 +2,7 @@
 
 [在线阅读](https://vue3js.cn/interview)
 
+PS: 仓库每周一更，想要及时收到推送的同学可以加入我们
 ## 关于我们
  <p>
 <img  width="400px" style="max-width:400px; width:400px;" src="https://static.vue-js.com/1860fa20-443b-11eb-ab90-d9ae814b240d.png"/>

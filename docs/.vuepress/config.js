@@ -37,7 +37,7 @@ module.exports = {
     // displayAllHeaders: true,
     sidebar: [
       {
-        title: "Vue",
+        title: "Vue系列  ( 已完结..)",
         collapsable: false,
         children: [
           ["vue/vue", "说说你对vue的理解?"],
@@ -68,10 +68,26 @@ module.exports = {
           ["vue/ssr", "SSR解决了什么问题？有做过SSR吗？你是怎么做的？"],
           ["vue/structure", "说下你的vue项目的目录结构，如果是大型项目你该怎么划分结构和划分组件呢？"],
           ["vue/permission", "vue要做权限管理该怎么做？如果控制到按钮级别的权限怎么做？"],
-          // ["vue/cors", "Vue项目中你是如何解决跨域的呢？"],
-          // ["vue/filter", "vue项目本地开发完成后部署到服务器后报404是什么原因呢？"],
-          // ["vue/filter", "你是怎么处理vue项目中的错误的？"],
-          // ["start/overview", "导读 | Vue3设计理念"]
+          ["vue/cors", "Vue项目中你是如何解决跨域的呢？"],
+          ["vue/404", "vue项目本地开发完成后部署到服务器后报404是什么原因呢？"],
+          ["vue/error", "你是怎么处理vue项目中的错误的？"],
+          ["vue/vue3_vue2", "Vue3有了解过吗？能说说跟Vue2的区别吗？"]
+        ],
+      },
+      {
+        title: "ES6系列  ( 正在更新..)",
+        collapsable: false,
+        children: [
+          ["es6/var_let_const", "说说var、let、const之间的区别"],
+          ["es6/array", "ES6中数组新增了哪些扩展?"],
+          ["es6/object", "ES6中对象新增了哪些扩展?"],
+          ["es6/function", "ES6中函数新增了哪些扩展?"],
+          ["es6/set_map", "ES6中新增的Set、Map两种数据结构怎么理解?"],
+          // ["vue/if_for", "为什么Vue中的v-if和v-for不建议一起用?"],
+          // ["vue/first_page_time", "SPA（单页应用）首屏加载速度慢怎么解决？"],
+          // ["vue/data", "为什么data属性是一个函数而不是一个对象？"],
+          // ["vue/data_object_add_attrs", "Vue中给对象添加新属性界面不刷新?"],
+          // ["vue/components_plugin", "Vue中组件和插件有什么区别？"],
         ],
       }
     ],

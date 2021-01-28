@@ -75,7 +75,17 @@ module.exports = {
         ],
       },
       {
-        title: "ES6系列  ( 正在更新..)",
+        title: "Vue3系列  ( 正在更新..)",
+        collapsable: false,
+        children: [
+          ["vue3/goal", "Vue3.0的设计目标是什么？做了哪些优化?"],
+          ["vue3/performance", "Vue3.0 性能提升主要是通过哪几方面体现的？"],
+          ["vue3/proxy", "Vue3.0里为什么要用 Proxy API 替代 defineProperty API ？"],
+          ["vue3/composition", "Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？?"],
+        ],
+      },
+      {
+        title: "ES6系列  ( 已完结..)",
         collapsable: false,
         children: [
           ["es6/var_let_const", "说说var、let、const之间的区别"],
@@ -83,11 +93,11 @@ module.exports = {
           ["es6/object", "ES6中对象新增了哪些扩展?"],
           ["es6/function", "ES6中函数新增了哪些扩展?"],
           ["es6/set_map", "ES6中新增的Set、Map两种数据结构怎么理解?"],
-          // ["vue/if_for", "为什么Vue中的v-if和v-for不建议一起用?"],
-          // ["vue/first_page_time", "SPA（单页应用）首屏加载速度慢怎么解决？"],
-          // ["vue/data", "为什么data属性是一个函数而不是一个对象？"],
-          // ["vue/data_object_add_attrs", "Vue中给对象添加新属性界面不刷新?"],
-          // ["vue/components_plugin", "Vue中组件和插件有什么区别？"],
+          ["es6/promise", "你是怎么理解ES6中 Promise的？使用场景？"],
+          ["es6/generator", "怎么理解ES6中 Generator的？使用场景？"],
+          ["es6/proxy", "你是怎么理解ES6中Proxy的？使用场景?"],
+          ["es6/module", "你是怎么理解ES6中Module的？使用场景？"],
+          ["es6/decorator", "你是怎么理解ES6中 Decorator 的？使用场景？"],
         ],
       }
     ],

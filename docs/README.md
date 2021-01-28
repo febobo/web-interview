@@ -87,6 +87,14 @@ JS每日一题是一个语音答题社群：
 - [面试官：你是怎么处理vue项目中的错误的？](https://github.com/febobo/web-interview/issues/32)
 - [面试官：Vue3有了解过吗？能说说跟Vue2的区别吗？](https://github.com/febobo/web-interview/issues/33)
 
+<h3 style="text-align: center">Vue3系列</h3>
+
+- [面试官：Vue3.0的设计目标是什么？做了哪些优化?](https://github.com/febobo/web-interview/issues/45)
+- [面试官：Vue3.0 性能提升主要是通过哪几方面体现的？](https://github.com/febobo/web-interview/issues/46)
+- [面试官：Vue3.0里为什么要用 Proxy API 替代 defineProperty API ？](https://github.com/febobo/web-interview/issues/47)
+- [面试官：Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？](https://github.com/febobo/web-interview/issues/48)
+
+
 <h3 style="text-align: center">ES6系列</h3>
 
 - [面试官：说说var、let、const之间的区别](https://github.com/febobo/web-interview/issues/34)
@@ -94,6 +102,12 @@ JS每日一题是一个语音答题社群：
 - [面试官：ES6中对象新增了哪些扩展?](https://github.com/febobo/web-interview/issues/36)
 - [面试官：ES6中函数新增了哪些扩展?](https://github.com/febobo/web-interview/issues/37)
 - [面试官：ES6中新增的Set、Map两种数据结构怎么理解?](https://github.com/febobo/web-interview/issues/38)
+- [面试官：你是怎么理解ES6中 Promise的？使用场景？](https://github.com/febobo/web-interview/issues/40)
+- [面试官：怎么理解ES6中 Generator的？使用场景？](https://github.com/febobo/web-interview/issues/41)
+- [面试官：你是怎么理解ES6中Proxy的？使用场景?](https://github.com/febobo/web-interview/issues/42)
+- [面试官：你是怎么理解ES6中Module的？使用场景？](https://github.com/febobo/web-interview/issues/43)
+- [面试官：你是怎么理解ES6中 Decorator 的？使用场景？](https://github.com/febobo/web-interview/issues/44)
+
 
 ## 未来
 

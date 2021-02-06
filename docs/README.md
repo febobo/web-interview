@@ -95,7 +95,7 @@ JS每日一题是一个语音答题社群：
 - [面试官：Vue3.0 性能提升主要是通过哪几方面体现的？](https://github.com/febobo/web-interview/issues/46)
 - [面试官：Vue3.0里为什么要用 Proxy API 替代 defineProperty API ？](https://github.com/febobo/web-interview/issues/47)
 - [面试官：Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？](https://github.com/febobo/web-interview/issues/48)
-
+- [面试官：用Vue3.0 写过组件吗？如果想实现一个 Modal你会怎么设计？](https://github.com/febobo/web-interview/issues/50)
 
 <h3 style="text-align: center">ES6系列</h3>
 
@@ -112,7 +112,6 @@ JS每日一题是一个语音答题社群：
 
 <h3 style="text-align: center">Javascript系列</h3>
 
-- [面试官：用Vue3.0 写过组件吗？如果想实现一个 Modal你会怎么设计？](https://github.com/febobo/web-interview/issues/50)
 - [面试官：说说Javascript中的数据类型？区别？](https://github.com/febobo/web-interview/issues/51)
 - [面试官：Javscript数组的常用方法有哪些？](https://github.com/febobo/web-interview/issues/52)
 - [面试官：Javascript字符串的常用方法有哪些？](https://github.com/febobo/web-interview/issues/53)

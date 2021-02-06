@@ -8,7 +8,7 @@ PS: 仓库每周一更，想要及时收到推送的同学可以加入我们
 <!-- <div >
     <a href="https://vue3js.cn/interview"><img src="https://static.vue-js.com/1860fa20-443b-11eb-ab90-d9ae814b240d.png" width="400px"></a>
 </div> -->
-  
+
 <p >
   <a href="https://github.com/febobo/web-interview/stargazers"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg" alt="Statr"></a>
 <a href="https://github.com/febobo/web-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=vue" alt="vue"></a>
@@ -49,6 +49,8 @@ JS每日一题是一个语音答题社群：
 </p>
 
 我们现在正在进行的是Vue面试官系列，这个系列本质是根据面试题去反推学习某个知识点，绝不仅限于应对面试，而是真真切切要从中学到相关的知识，并且是真真正正能用上的知识点
+
+
 
 ## 我们产出的内容
 
@@ -107,6 +109,15 @@ JS每日一题是一个语音答题社群：
 - [面试官：你是怎么理解ES6中Proxy的？使用场景?](https://github.com/febobo/web-interview/issues/42)
 - [面试官：你是怎么理解ES6中Module的？使用场景？](https://github.com/febobo/web-interview/issues/43)
 - [面试官：你是怎么理解ES6中 Decorator 的？使用场景？](https://github.com/febobo/web-interview/issues/44)
+
+<h3 style="text-align: center">Javascript系列</h3>
+
+- [面试官：用Vue3.0 写过组件吗？如果想实现一个 Modal你会怎么设计？](https://github.com/febobo/web-interview/issues/50)
+- [面试官：说说Javascript中的数据类型？区别？](https://github.com/febobo/web-interview/issues/51)
+- [面试官：Javscript数组的常用方法有哪些？](https://github.com/febobo/web-interview/issues/52)
+- [面试官：Javascript字符串的常用方法有哪些？](https://github.com/febobo/web-interview/issues/53)
+- [面试官：谈谈 Javascript 中的类型转换机制](https://github.com/febobo/web-interview/issues/54)
+
 
 
 ## 未来

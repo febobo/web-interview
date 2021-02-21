@@ -1,4 +1,4 @@
-## 面试官：说说你对slot的理解？slot使用场景有哪些？
+# 面试官：说说你对slot的理解？slot使用场景有哪些？
 
  ![](https://static.vue-js.com/141ca660-3dbc-11eb-85f6-6fac77c0c9b3.png)
 

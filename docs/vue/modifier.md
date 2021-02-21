@@ -1,4 +1,6 @@
- ![](https://static.vue-js.com/8f718e30-42c0-11eb-ab90-d9ae814b240d.png)
+# 面试官：Vue常用的修饰符有哪些有什么应用场景
+
+![](https://static.vue-js.com/8f718e30-42c0-11eb-ab90-d9ae814b240d.png)
 
 ## 一、修饰符是什么
 

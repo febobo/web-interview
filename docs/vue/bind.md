@@ -1,4 +1,6 @@
- ![](https://static.vue-js.com/cef7dcc0-3ac9-11eb-85f6-6fac77c0c9b3.png)
+#  面试官：双向数据绑定是什么
+
+![](https://static.vue-js.com/cef7dcc0-3ac9-11eb-85f6-6fac77c0c9b3.png)
 
 ## 一、什么是双向绑定
 

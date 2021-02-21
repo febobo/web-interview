@@ -1,4 +1,7 @@
- ![](https://static.vue-js.com/7de50d20-3aca-11eb-85f6-6fac77c0c9b3.png)
+# 面试官：Vue组件之间的通信方式都有哪些？
+
+![](https://static.vue-js.com/7de50d20-3aca-11eb-85f6-6fac77c0c9b3.png)
+
 ## 一、组件间通信的概念  
 
 开始之前，我们把**组件间通信**这个词进行拆分

@@ -1,4 +1,6 @@
- ![](https://static.vue-js.com/54a04a10-5569-11eb-85f6-6fac77c0c9b3.png)
+#  面试官：对象新增了哪些扩展？
+
+![](https://static.vue-js.com/54a04a10-5569-11eb-85f6-6fac77c0c9b3.png)
 
 
 

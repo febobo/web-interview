@@ -1,4 +1,6 @@
- ![](https://static.vue-js.com/3a119e10-3aca-11eb-85f6-6fac77c0c9b3.png)
+#  面试官：请描述下你对vue生命周期的理解？在created和mounted这两个生命周期中请求数据有什么区别呢？
+
+![](https://static.vue-js.com/3a119e10-3aca-11eb-85f6-6fac77c0c9b3.png)
 
 ## 一、生命周期是什么  
 

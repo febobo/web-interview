@@ -1,4 +1,6 @@
- ![](https://static.vue-js.com/cf6aa320-3ac6-11eb-85f6-6fac77c0c9b3.png)
+# 面试官：你对SPA单页面的理解，它的优缺点分别是什么？如何实现SPA应用呢
+
+![](https://static.vue-js.com/cf6aa320-3ac6-11eb-85f6-6fac77c0c9b3.png)
 
 ## 一、什么是SPA
 
@@ -17,7 +19,7 @@ SPA（single-page application），翻译过来就是单页应用`SPA`是一种�
 #### 单页应用与多页应用的区别
 
 |   
- | 单页面应用（SPA） | 多页面应用（MPA） |
+| 单页面应用（SPA） | 多页面应用（MPA） |
 | :-- | :-- | :-- |
 | 组成 | 一个主页面和多个页面片段 | 多个主页面 |
 | 刷新方式 | 局部刷新 | 整页刷新 |

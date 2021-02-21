@@ -1,4 +1,4 @@
-
+# 面试官：你了解vue的diff算法吗？说说看
 
 ![](https://static.vue-js.com/5e858e30-4585-11eb-85f6-6fac77c0c9b3.png)
 

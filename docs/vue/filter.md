@@ -1,4 +1,4 @@
-
+# 面试官：Vue中的过滤器了解吗？过滤器的应用场景有哪些？
 
  ![](https://static.vue-js.com/fe68eea0-440f-11eb-ab90-d9ae814b240d.png)
 

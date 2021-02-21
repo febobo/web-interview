@@ -1,6 +1,6 @@
+# 面试官：你了解axios的原理吗？有看过它的源码吗？
 
-
- ![](https://static.vue-js.com/1564f7d0-4662-11eb-ab90-d9ae814b240d.png)
+![](https://static.vue-js.com/1564f7d0-4662-11eb-ab90-d9ae814b240d.png)
 
 ## 一、axios的使用
 

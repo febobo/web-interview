@@ -1,5 +1,6 @@
+# 面试官：SSR解决了什么问题？有做过SSR吗？你是怎么做的？
 
- ![](https://static.vue-js.com/84bd83f0-4986-11eb-85f6-6fac77c0c9b3.png)
+![](https://static.vue-js.com/84bd83f0-4986-11eb-85f6-6fac77c0c9b3.png)
 
 ## 一、是什么
 

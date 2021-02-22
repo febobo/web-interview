@@ -1,7 +1,7 @@
-
+# 面试官：Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？
 
  ![](https://static.vue-js.com/8d6dd7b0-6048-11eb-85f6-6fac77c0c9b3.png)
- 
+
 ## 开始之前
 `Composition API` 可以说是`Vue3`的最大特点，那么为什么要推出`Composition Api`，解决了什么问题？
 

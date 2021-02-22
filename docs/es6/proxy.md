@@ -1,4 +1,4 @@
-## 你是怎么理解ES6中Proxy的？使用场景?
+# 面试官：你是怎么理解ES6中Proxy的？使用场景?
 
  ![](https://static.vue-js.com/6f656e30-59f5-11eb-85f6-6fac77c0c9b3.png)
 

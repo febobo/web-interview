@@ -1,4 +1,4 @@
-## 面试官：JavaScript字符串的常用方法有哪些？
+# 面试官：JavaScript字符串的常用方法有哪些？
 
  ![](https://static.vue-js.com/ceb6ebc0-65c1-11eb-ab90-d9ae814b240d.png)
 

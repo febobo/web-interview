@@ -1,4 +1,4 @@
-## 面试官：谈谈 JavaScript 中的类型转换机制
+# 面试官：谈谈 JavaScript 中的类型转换机制
 
  ![](https://static.vue-js.com/2abd00a0-6692-11eb-85f6-6fac77c0c9b3.png)
 

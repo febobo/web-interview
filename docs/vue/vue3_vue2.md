@@ -1,4 +1,4 @@
-
+# 面试官：vue3有了解过吗？能说说跟vue2的区别吗？
 
  ![](https://static.vue-js.com/774b6950-5087-11eb-85f6-6fac77c0c9b3.png)
 
@@ -16,7 +16,7 @@
 
 ## 哪些变化
  ![](https://static.vue-js.com/9169a900-5087-11eb-85f6-6fac77c0c9b3.png)
- 
+
 从上图中，我们可以概览`Vue3`的新特性，如下：
 
 - 速度更快

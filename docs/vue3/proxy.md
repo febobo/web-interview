@@ -1,4 +1,4 @@
-
+# 面试官：Vue3.0里为什么要用 Proxy API 替代 defineProperty API ？
 
  ![](https://static.vue-js.com/57aa5c80-5f7f-11eb-ab90-d9ae814b240d.png)
 

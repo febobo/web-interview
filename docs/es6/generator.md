@@ -1,4 +1,4 @@
-
+# 面试官：你是怎么理解ES6中 Generator的？使用场景？
 
  ![](https://static.vue-js.com/7db499b0-5947-11eb-ab90-d9ae814b240d.png)
 

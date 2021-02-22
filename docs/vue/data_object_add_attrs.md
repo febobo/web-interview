@@ -1,5 +1,6 @@
+# 面试官：动态给vue的data添加一个新的属性时会发生什么？怎样解决？
 
- ![image.png](https://static.vue-js.com/a502dde0-3acc-11eb-ab90-d9ae814b240d.png)
+![image.png](https://static.vue-js.com/a502dde0-3acc-11eb-ab90-d9ae814b240d.png)
 
 
 ## 一、直接添加属性的问题

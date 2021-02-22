@@ -1,5 +1,6 @@
+# 面试官：说下你的vue项目的目录结构，如果是大型项目你该怎么划分结构和划分组件呢？
 
- ![](https://static.vue-js.com/b6cd6a60-4aba-11eb-ab90-d9ae814b240d.png)
+![](https://static.vue-js.com/b6cd6a60-4aba-11eb-ab90-d9ae814b240d.png)
 
 ## 一、为什么要划分
 

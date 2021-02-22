@@ -116,6 +116,12 @@ JS每日一题是一个语音答题社群：
 - [面试官：Javscript数组的常用方法有哪些？](https://github.com/febobo/web-interview/issues/52)
 - [面试官：Javascript字符串的常用方法有哪些？](https://github.com/febobo/web-interview/issues/53)
 - [面试官：谈谈 Javascript 中的类型转换机制](https://github.com/febobo/web-interview/issues/54)
+- [面试官：== 和 ===区别，分别在什么情况使用](https://github.com/febobo/web-interview/issues/55)
+- [面试官：深拷贝浅拷贝的区别？如何实现一个深拷贝？](https://github.com/febobo/web-interview/issues/56)
+- [面试官：说说你对闭包的理解](https://github.com/febobo/web-interview/issues/57)
+- [面试官：说说你对作用域链的理解](https://github.com/febobo/web-interview/issues/58)
+- [面试官：JavaScript原型，原型链 ? 有什么特点？](https://github.com/febobo/web-interview/issues/59)
+- [面试官：Javascript如何实现继承？](https://github.com/febobo/web-interview/issues/60)
 
 
 

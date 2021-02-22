@@ -75,13 +75,15 @@ module.exports = {
         ],
       },
       {
-        title: "Vue3系列  ( 正在更新..)",
+        title: "Vue3系列  ( 已完结..)",
         collapsable: false,
         children: [
           ["vue3/goal", "Vue3.0的设计目标是什么？做了哪些优化?"],
           ["vue3/performance", "Vue3.0 性能提升主要是通过哪几方面体现的？"],
           ["vue3/proxy", "Vue3.0里为什么要用 Proxy API 替代 defineProperty API ？"],
-          ["vue3/composition", "Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？?"],
+          ["vue3/composition", "Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？"],
+          ["vue3/treeshaking", "说说Vue 3.0中Treeshaking特性？举例说明一下？"],
+          ["vue3/modal_component", "用Vue3.0 写过组件吗？如果想实现一个 Modal你会怎么设计？"],
         ],
       },
       {
@@ -98,6 +100,22 @@ module.exports = {
           ["es6/proxy", "你是怎么理解ES6中Proxy的？使用场景?"],
           ["es6/module", "你是怎么理解ES6中Module的？使用场景？"],
           ["es6/decorator", "你是怎么理解ES6中 Decorator 的？使用场景？"],
+        ],
+      },
+      {
+        title: "JavaScript系列  ( 进行中..)",
+        collapsable: false,
+        children: [
+          ["JavaScript/data_type", "说说JavaScript中的数据类型？存储上的差别？"],
+          ["JavaScript/array_api", "数组的常用方法有哪些？"],
+          ["JavaScript/string_api", "JavaScript字符串的常用方法有哪些？"],
+          ["JavaScript/type_conversion", "谈谈 JavaScript 中的类型转换机制"],
+          ["JavaScript/== _===", "== 和 ===区别，分别在什么情况使用"],
+          ["JavaScript/copy", "深拷贝浅拷贝的区别？如何实现一个深拷贝？"],
+          ["JavaScript/closure", "说说你对闭包的理解？闭包使用场景"],
+          ["JavaScript/scope", "说说你对作用域链的理解"],
+          ["JavaScript/prototype", "JavaScript原型，原型链 ? 有什么特点？"],
+          ["JavaScript/inherit", "Javascript如何实现继承？"],
         ],
       }
     ],

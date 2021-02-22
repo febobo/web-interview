@@ -1,4 +1,6 @@
- ![](https://static.vue-js.com/b93b49c0-5c58-11eb-85f6-6fac77c0c9b3.png)
+# 面试官：Vue3.0的设计目标是什么？做了哪些优化
+
+![](https://static.vue-js.com/b93b49c0-5c58-11eb-85f6-6fac77c0c9b3.png)
 
 ## 一、设计目标
 

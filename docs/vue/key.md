@@ -1,4 +1,6 @@
- ![](https://static.vue-js.com/bc6e9540-3f41-11eb-85f6-6fac77c0c9b3.png)
+# 面试官：你知道vue中key的原理吗？说说你对它的理解
+
+![](https://static.vue-js.com/bc6e9540-3f41-11eb-85f6-6fac77c0c9b3.png)
 
 ## 一、Key是什么
 

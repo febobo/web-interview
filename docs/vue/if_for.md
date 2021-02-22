@@ -1,5 +1,6 @@
+# 面试官：v-if和v-for的优先级是什么？
 
- ![](https://static.vue-js.com/e8764810-3acb-11eb-85f6-6fac77c0c9b3.png)
+![](https://static.vue-js.com/e8764810-3acb-11eb-85f6-6fac77c0c9b3.png)
 
 
 ## 一、作用

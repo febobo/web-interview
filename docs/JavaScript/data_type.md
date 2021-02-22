@@ -1,4 +1,4 @@
-## 面试官：说说JavaScript中的数据类型？存储上的差别？
+# 面试官：说说JavaScript中的数据类型？存储上的差别？
 
  ![](https://static.vue-js.com/6d133f90-6463-11eb-ab90-d9ae814b240d.png)
 

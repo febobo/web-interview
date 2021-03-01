@@ -95,6 +95,7 @@ JS每日一题是一个语音答题社群：
 - [面试官：Vue3.0 性能提升主要是通过哪几方面体现的？](https://github.com/febobo/web-interview/issues/46)
 - [面试官：Vue3.0里为什么要用 Proxy API 替代 defineProperty API ？](https://github.com/febobo/web-interview/issues/47)
 - [面试官：Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？](https://github.com/febobo/web-interview/issues/48)
+- [面试官：说说Vue 3.0中Treeshaking特性？举例说明一下？](https://github.com/febobo/web-interview/issues/67)
 - [面试官：用Vue3.0 写过组件吗？如果想实现一个 Modal你会怎么设计？](https://github.com/febobo/web-interview/issues/50)
 
 <h3 style="text-align: center">ES6系列</h3>
@@ -122,6 +123,11 @@ JS每日一题是一个语音答题社群：
 - [面试官：说说你对作用域链的理解](https://github.com/febobo/web-interview/issues/58)
 - [面试官：JavaScript原型，原型链 ? 有什么特点？](https://github.com/febobo/web-interview/issues/59)
 - [面试官：Javascript如何实现继承？](https://github.com/febobo/web-interview/issues/60)
+- [面试官：谈谈this对象的理解](https://github.com/febobo/web-interview/issues/62)
+- [面试官：JavaScript中执行上下文和执行栈是什么？](https://github.com/febobo/web-interview/issues/63)
+- [面试官：说说JavaScript中的事件模型](https://github.com/febobo/web-interview/issues/64)
+- [面试官：typeof 与 instanceof 区别](https://github.com/febobo/web-interview/issues/65)
+- [面试官：解释下什么是事件代理？应用场景？](https://github.com/febobo/web-interview/issues/66)
 
 
 

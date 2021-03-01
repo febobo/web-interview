@@ -116,6 +116,11 @@ module.exports = {
           ["JavaScript/scope", "说说你对作用域链的理解"],
           ["JavaScript/prototype", "JavaScript原型，原型链 ? 有什么特点？"],
           ["JavaScript/inherit", "Javascript如何实现继承？"],
+          ["JavaScript/this", "谈谈this对象的理解"],
+          ["JavaScript/context_stack", "JavaScript中执行上下文和执行栈是什么？"],
+          ["JavaScript/event_Model", "说说JavaScript中的事件模型"],
+          ["JavaScript/typeof_instanceof", "typeof 与 instanceof 区别"],
+          ["JavaScript/event_agent", "解释下什么是事件代理？应用场景？"],
         ],
       }
     ],

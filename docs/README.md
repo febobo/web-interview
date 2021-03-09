@@ -128,6 +128,11 @@ JS每日一题是一个语音答题社群：
 - [面试官：说说JavaScript中的事件模型](https://github.com/febobo/web-interview/issues/64)
 - [面试官：typeof 与 instanceof 区别](https://github.com/febobo/web-interview/issues/65)
 - [面试官：解释下什么是事件代理？应用场景？](https://github.com/febobo/web-interview/issues/66)
+- [面试官：说说new操作符具体干了什么？](https://github.com/febobo/web-interview/issues/69)
+- [面试官：ajax原理是什么？如何实现？](https://github.com/febobo/web-interview/issues/70)
+- [面试官：bind、call、apply 区别？如何实现一个bind?](https://github.com/febobo/web-interview/issues/71)
+- [面试官：说说你对正则表达式的理解？应用场景？](https://github.com/febobo/web-interview/issues/72)
+- [面试官：说说你对事件循环的理解](https://github.com/febobo/web-interview/issues/73)
 
 
 

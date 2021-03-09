@@ -121,6 +121,11 @@ module.exports = {
           ["JavaScript/event_Model", "说说JavaScript中的事件模型"],
           ["JavaScript/typeof_instanceof", "typeof 与 instanceof 区别"],
           ["JavaScript/event_agent", "解释下什么是事件代理？应用场景？"],
+          ["JavaScript/new", "说说new操作符具体干了什么？"],
+          ["JavaScript/ajax", "ajax原理是什么？如何实现？"],
+          ["JavaScript/bind_call_apply", "bind、call、apply 区别？如何实现一个bind?"],
+          ["JavaScript/regexp", "说说你对正则表达式的理解？应用场景？"],
+          ["JavaScript/event_loop", "说说你对事件循环的理解"],
         ],
       }
     ],

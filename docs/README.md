@@ -133,6 +133,16 @@ JS每日一题是一个语音答题社群：
 - [面试官：bind、call、apply 区别？如何实现一个bind?](https://github.com/febobo/web-interview/issues/71)
 - [面试官：说说你对正则表达式的理解？应用场景？](https://github.com/febobo/web-interview/issues/72)
 - [面试官：说说你对事件循环的理解](https://github.com/febobo/web-interview/issues/73)
+- [面试官：DOM常见的操作有哪些？](https://github.com/febobo/web-interview/issues/75)
+- [面试官：说说你对BOM的理解，常见的BOM对象你了解哪些？](https://github.com/febobo/web-interview/issues/76)
+- [面试官：举例说明你对尾递归的理解，有哪些应用场景](https://github.com/febobo/web-interview/issues/77)
+- [面试官：说说 JavaScript 中内存泄漏的几种情况？](https://github.com/febobo/web-interview/issues/78)
+- [面试官：Javascript本地存储的方式有哪些？区别及应用场景？](https://github.com/febobo/web-interview/issues/79)
+- [面试官：说说你对函数式编程的理解？优缺点？](https://github.com/febobo/web-interview/issues/80)
+- [面试官：Javascript中如何实现函数缓存？函数缓存有哪些应用场景？](https://github.com/febobo/web-interview/issues/81)
+- [面试官：说说 Javascript 数字精度丢失的问题，如何解决？](https://github.com/febobo/web-interview/issues/82)
+- [面试官：什么是防抖和节流？有什么区别？如何实现？](https://github.com/febobo/web-interview/issues/83)
+- [面试官：如何判断一个元素是否在可视区域中？](https://github.com/febobo/web-interview/issues/84)
 
 
 

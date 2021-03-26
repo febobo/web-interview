@@ -1,14 +1,10 @@
-避免失联可以先点star
 
-[在线阅读](https://vue3js.cn/interview)
 
-PS: 仓库每周一更，想要及时收到推送的同学可以加入我们
-## 关于我们
+本仓库为语音打卡社群(JS每日一题)维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
 
-<!-- <div >
-    <a href="https://vue3js.cn/interview"><img src="https://static.vue-js.com/1860fa20-443b-11eb-ab90-d9ae814b240d.png" width="400px"></a>
-</div> -->
-
+<p style="text-align:center">
+<img width="300px"  style="max-width:300px; width:300px;" src="https://static.vue-js.com/21494410-8e11-11eb-ab90-d9ae814b240d.png"/>
+</p>
 <p >
   <a href="https://github.com/febobo/web-interview/stargazers"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg" alt="Statr"></a>
 <a href="https://github.com/febobo/web-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=vue" alt="vue"></a>
@@ -17,42 +13,55 @@ PS: 仓库每周一更，想要及时收到推送的同学可以加入我们
   <a href="https://github.com/febobo/web-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=javascript" alt="javascript"></a>
 </p>
 
+同时我们提供更好阅读体验的在线版本，[点这里](https://vue3js.cn/interview)
 
-本仓库内容全部来自于 [@公众号:JS每日一题](https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png)
+🧜‍♀️ 避免失联可以先点star
 
-JS每日一题是一个语音答题社群：
+PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可以点击[@公众号:JS每日一题](https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png)关注我们
 
-大家进行语音打卡，群管理输出标准答案次日推送至群内供大家复盘参考，坚持做到事事有回音，题题有答案
+##  🤠 为什么要做这样的一个仓库
+最开始是没有想要弄仓库的，我们通过微信群语音的形式进行每天一次的打卡，次日再通过[公众号](https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png)图文形式的题解推送至群内供大家复盘总结
 
-每天的打卡都是一次思维整理输出的训练，将自己想要表达的内容放入框架中再输出，使表达更简洁和系统
+随着时间的推移，题也积累的越来越多，再去通过公众号检索信息效率会明显降低
 
-#### 为什么要用语音？
-- 用语言复述一件事物是锻练表达能力的最佳路径
-- 你以为的并不是你以为的，你可能会但你不一定会说
+这个时候我们就想着通过开源的形式，将我们总结好的文章以多种形态的呈现方式帮助到更多需要的人
 
-####  打卡困境：题太简单或者太难？
-- 简单的事如果我们有机会做的更好为什么不做
-- 觉得难的只是因为触及到了知识盲区，这个时候应该更用心的去思考总结
+## 🤡 这个仓库主要内容是?
 
-## 加入我们
+仓库目前主题以前端面试题为主，后续可能会扩展更多的分支
 
-先晒晒平常我们的样子
+在这个信息爆炸，前端生态百花齐放的时代，我们每找寻一个答案都要换一种形式，这简直太奢侈了
+
+我们的目标是做最全最好最有质量前端面试仓库，用心收录大厂面试题，高频面试题，知识点面试题，用心做好每一道题值得参考的题解
+
+## 🦸‍♂️ 你们的本质就是面试题吗？
+
+不是，一直在强调语音社群，这个仓库也仅且是一个附属品
+
+我们只是以面试题的形式作为切入点，根据面试题去反推学习更具体的知识点，绝不仅限于应对面试，要真真切切在学习过程中得到蜕变
+
+社群内每天的打卡都是一次思维整理输出的训练，将自己想要表达的内容放入框架中再进行输出，让我们的表达更简洁更系统
+
+它的背后是思考，总结，更是坚持
+
+在过程中看清自已，在结果中遇见自己，我们都值得有更美好的未来
+
+再晒晒平常我们的样子
 
 <p>
 <img width="600px"  style="max-width:600px; width:600px;" src="https://user-images.githubusercontent.com/9276376/102876713-90c0f700-4480-11eb-880f-613f8f0f5042.png"/>
 </p>
 
-如果你也有兴趣，欢迎扫描下方二维码加入我们
+如果看到这里你也有兴趣，欢迎扫描下方二维码加入我们，持续成长
 
 <p>
   <img  width="200px" style="max-width:200px; width:200px; height: 200px" src="https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png"/>
 </p>
 
-我们现在正在进行的是Vue面试官系列，这个系列本质是根据面试题去反推学习某个知识点，绝不仅限于应对面试，而是真真切切要从中学到相关的知识，并且是真真正正能用上的知识点
+## 内容
 
+点击[@公众号:JS每日一题](https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png)扫码关注，跟踪我们最新动态
 
-
-## 我们产出的内容
 
 <h3 style="text-align: center">Vue系列</h3>
 
@@ -146,23 +155,21 @@ JS每日一题是一个语音答题社群：
 
 
 
-## 未来
+## 更多系列
 
-### 面试官React系列/精选33道
-筹备中..
-### 面试官手写系列/精选33道
-筹备中..
-### 面试官HTTP系列/精选33道
-筹备中..
-### 面试官JavaScript基础系列/精选33道
-筹备中..
-### 面试官CSS系列/精选33道
-筹备中..
-### 面试官算法系列/精选33道
-筹备中..
-### 面试官浏览器系列/精选33道
-筹备中..
-### 面试官前端构建系列/精选33道
-筹备中..
+- 面试官React系列筹备中..
+- 面试官手写系列筹备中..
+- 面试官HTTP系列筹备中..
+- 面试官CSS系列筹备中..
+- 面试官算法系列筹备中..
+- 面试官浏览器系列筹备中..
+- 面试官前端构建系列筹备中..
 
+## 声明
 
+- 添加本仓库地址可随意转载仓库内所有内容
+- 本仓库永不收取任何费用，现在不会，未来也不会，也不会授权任何人/机构进行收费
+
+<p>
+<img width="300px"  style="max-width:300px; width:300px;" src="https://static.vue-js.com/21494410-8e11-11eb-ab90-d9ae814b240d.png"/>
+</p>

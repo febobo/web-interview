@@ -1,17 +1,16 @@
 
-
-本仓库为语音打卡社群(JS每日一题)维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
-
-<p style="text-align:center">
+<p align="center">
 <img width="300px"  style="max-width:300px; width:300px;" src="https://static.vue-js.com/21494410-8e11-11eb-ab90-d9ae814b240d.png"/>
 </p>
-<p >
+<p align="center">
   <a href="https://github.com/febobo/web-interview/stargazers"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg" alt="Statr"></a>
 <a href="https://github.com/febobo/web-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=vue" alt="vue"></a>
 <a href="https://github.com/febobo/web-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=es6" alt="es6"></a>
   <a href="https://github.com/febobo/web-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=css" alt="css"></a>
   <a href="https://github.com/febobo/web-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=javascript" alt="javascript"></a>
 </p>
+
+本仓库为语音打卡社群(JS每日一题)维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
 
 同时我们提供更好阅读体验的在线版本，[点这里](https://vue3js.cn/interview)
 
@@ -58,12 +57,12 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
   <img  width="200px" style="max-width:200px; width:200px; height: 200px" src="https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png"/>
 </p>
 
-## 内容
+## 🧑 内容
 
 点击[@公众号:JS每日一题](https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png)扫码关注，跟踪我们最新动态
 
 
-<h3 style="text-align: center">Vue系列</h3>
+<h3 style="text-align: center" align="center">Vue系列</h3>
 
 - [面试官：说说你对vue的理解?](https://github.com/febobo/web-interview/issues/1)
 - [面试官：说说你对双向绑定的理解?](https://github.com/febobo/web-interview/issues/2)
@@ -98,7 +97,7 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：你是怎么处理vue项目中的错误的？](https://github.com/febobo/web-interview/issues/32)
 - [面试官：Vue3有了解过吗？能说说跟Vue2的区别吗？](https://github.com/febobo/web-interview/issues/33)
 
-<h3 style="text-align: center">Vue3系列</h3>
+<h3 style="text-align: center" align="center">Vue3系列</h3>
 
 - [面试官：Vue3.0的设计目标是什么？做了哪些优化?](https://github.com/febobo/web-interview/issues/45)
 - [面试官：Vue3.0 性能提升主要是通过哪几方面体现的？](https://github.com/febobo/web-interview/issues/46)
@@ -107,7 +106,7 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：说说Vue 3.0中Treeshaking特性？举例说明一下？](https://github.com/febobo/web-interview/issues/67)
 - [面试官：用Vue3.0 写过组件吗？如果想实现一个 Modal你会怎么设计？](https://github.com/febobo/web-interview/issues/50)
 
-<h3 style="text-align: center">ES6系列</h3>
+<h3 style="text-align: center" align="center">ES6系列</h3>
 
 - [面试官：说说var、let、const之间的区别](https://github.com/febobo/web-interview/issues/34)
 - [面试官：ES6中数组新增了哪些扩展?](https://github.com/febobo/web-interview/issues/35)
@@ -120,7 +119,7 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：你是怎么理解ES6中Module的？使用场景？](https://github.com/febobo/web-interview/issues/43)
 - [面试官：你是怎么理解ES6中 Decorator 的？使用场景？](https://github.com/febobo/web-interview/issues/44)
 
-<h3 style="text-align: center">Javascript系列</h3>
+<h3 style="text-align: center" align="center">Javascript系列</h3>
 
 - [面试官：说说Javascript中的数据类型？区别？](https://github.com/febobo/web-interview/issues/51)
 - [面试官：Javscript数组的常用方法有哪些？](https://github.com/febobo/web-interview/issues/52)
@@ -155,7 +154,7 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 
 
 
-## 更多系列
+## 👨‍👨‍👧‍👧 更多系列
 
 - 面试官React系列筹备中..
 - 面试官手写系列筹备中..
@@ -165,11 +164,11 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - 面试官浏览器系列筹备中..
 - 面试官前端构建系列筹备中..
 
-## 声明
+## 🙅‍♀️ 声明
 
 - 添加本仓库地址可随意转载仓库内所有内容
 - 本仓库永不收取任何费用，现在不会，未来也不会，也不会授权任何人/机构进行收费
 
-<p>
+<p align="center">
 <img width="300px"  style="max-width:300px; width:300px;" src="https://static.vue-js.com/21494410-8e11-11eb-ab90-d9ae814b240d.png"/>
 </p>

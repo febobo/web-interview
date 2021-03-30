@@ -136,14 +136,12 @@ module.exports = {
           ["JavaScript/loss_accuracy", "说说 Javascript 数字精度丢失的问题，如何解决？"],
           ["JavaScript/debounce_throttle", "什么是防抖和节流？有什么区别？如何实现？"],
           ["JavaScript/visible", "如何判断一个元素是否在可视区域中？"],
-
           ["JavaScript/continue_to_upload", "大文件上传如何做断点续传？"],
           ["JavaScript/pull_up_loading_pull_down_refresh", "如何实现上拉加载，下拉刷新？"],
           ["JavaScript/single_sign", "什么是单点登录？如何实现？"],
           ["JavaScript/security", "web常见的攻击方式有哪些？如何防御？"],
         ],
       },
-
       {
         title: "CSS系列  ( 进行中..)",
         collapsable: false,

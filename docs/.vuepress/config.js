@@ -145,7 +145,7 @@ module.exports = {
       },
 
       {
-        title: "CSS系列  ( 已完结..)",
+        title: "CSS系列  ( 进行中..)",
         collapsable: false,
         children: [
           ["css/box", "说说你对盒子模型的理解?"],

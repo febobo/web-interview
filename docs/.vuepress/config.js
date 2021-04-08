@@ -147,6 +147,11 @@ module.exports = {
         collapsable: false,
         children: [
           ["css/box", "说说你对盒子模型的理解?"],
+          ["css/selector", "css选择器有哪些？优先级？哪些属性可以继承？"],
+          ["css/em_px_rem_vh_vw", "说说em/px/rem/vh/vw区别?"],
+          ["css/em_px_rem_vh_vw", "说说设备像素、css像素、设备独立像素、dpr、ppi 之间的区别？"],
+          ["css/hide_attributes", "css中，有哪些方式可以隐藏页面元素？区别?"],
+          ["css/BFC", "谈谈你对BFC的理解？"],
         ],
       },
     ],

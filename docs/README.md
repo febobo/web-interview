@@ -166,8 +166,6 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：说说设备像素、css像素、设备独立像素、dpr、ppi 之间的区别？](https://github.com/febobo/web-interview/issues/97)
 - [面试官：css中，有哪些方式可以隐藏页面元素？区别?](https://github.com/febobo/web-interview/issues/98)
 - [面试官：谈谈你对BFC的理解？](https://github.com/febobo/web-interview/issues/99)
-
-
 - [面试官：元素水平垂直居中的方法有哪些？如果元素不定宽高呢？](https://github.com/febobo/web-interview/issues/102)
 - [面试官：如何实现两栏布局，右侧自适应？三栏布局中间自适应呢？](https://github.com/febobo/web-interview/issues/103)
 - [面试官：说说flexbox（弹性盒布局模型）,以及适用场景？](https://github.com/febobo/web-interview/issues/104)

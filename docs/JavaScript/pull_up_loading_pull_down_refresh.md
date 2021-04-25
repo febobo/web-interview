@@ -33,7 +33,7 @@
 - `scrollTop`：滚动视窗的高度距离`window`顶部的距离，它会随着往上滚动而不断增加，初始值是0，它是一个变化的值
 
 - `clientHeight`:它是一个定值，表示屏幕可视区域的高度；
-- `scrollHeight`：页面不能滚动时是不存在的，`body`长度超过`window`时才会出现，所表示`body`所有元素的长度
+- `scrollHeight`：页面不能滚动时也是存在的,此时scrollHeight等于clientHeight。scrollHeight表示`body`所有元素的总长度(包括body元素自身的padding)
 
 综上我们得出一个触底公式：
 ```js

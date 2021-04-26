@@ -172,8 +172,16 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：介绍一下grid网格布局](https://github.com/febobo/web-interview/issues/105)
 - [面试官：CSS3新增了哪些新特性？](https://github.com/febobo/web-interview/issues/106)
 - [面试官：css3动画有哪些？](https://github.com/febobo/web-interview/issues/109)
+
 - [面试官：怎么理解回流跟重绘？什么场景下会触发？](https://github.com/febobo/web-interview/issues/107)
 - [面试官：什么是响应式设计？响应式设计的基本原理是什么？如何做？](https://github.com/febobo/web-interview/issues/108)
+- [面试官：如果要做优化，CSS提高性能的方法有哪些？](https://github.com/febobo/web-interview/issues/114)
+- [面试官：如何实现单行／多行文本溢出的省略样式？](https://github.com/febobo/web-interview/issues/115)
+- [面试官：如何使用css完成视差滚动效果?](https://github.com/febobo/web-interview/issues/116)
+- [面试官：CSS如何画一个三角形？原理是什么？](https://github.com/febobo/web-interview/issues/117)
+- [面试官：让Chrome支持小于12px 的文字方式有哪些？区别？](https://github.com/febobo/web-interview/issues/118)
+- [面试官：说说对Css预编语言的理解？有哪些区别?](https://github.com/febobo/web-interview/issues/119)
+
 
 
 ## 👧 更多系列

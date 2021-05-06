@@ -181,6 +181,14 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：让Chrome支持小于12px 的文字方式有哪些？区别？](https://github.com/febobo/web-interview/issues/118)
 - [面试官：说说对Css预编语言的理解？有哪些区别?](https://github.com/febobo/web-interview/issues/119)
 
+<h3 style="text-align: center">webpack系列</h3>
+
+- [面试官：说说你对webpack的理解？解决了什么问题？](https://github.com/febobo/web-interview/issues/121)
+- [面试官：说说webpack的构建流程?](https://github.com/febobo/web-interview/issues/122)
+- [面试官：说说webpack中常见的Loader？解决了什么问题？](https://github.com/febobo/web-interview/issues/123)
+- [面试官：说说webpack中常见的Plugin？解决了什么问题？](https://github.com/febobo/web-interview/issues/124)
+- [面试官：说说Loader和Plugin的区别？编写Loader，Plugin的思路？](https://github.com/febobo/web-interview/issues/125)
+- [面试官：说说webpack的热更新是如何做到的？原理是什么？](https://github.com/febobo/web-interview/issues/126)
 
 
 ## 👧 更多系列

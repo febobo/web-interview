@@ -17,7 +17,7 @@ Vue生命周期总共可以分为8个阶段：创建前后, 载入前后,更新�
 | beforeMount | 组件挂载之前 |
 | mounted | 组件挂载到实例上去之后 |
 | beforeUpdate | 组件数据发生变化，更新之前 |
-| updated | 数据数据更新之后 |
+| updated | 组件数据更新之后 |
 | beforeDestroy | 组件实例销毁之前 |
 | destroyed | 组件实例销毁之后 |
 | activated | keep-alive 缓存的组件激活时 |

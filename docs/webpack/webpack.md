@@ -44,7 +44,7 @@ window.moduleA = {
     console.log(name + '#method1')
     $('body').animate({ margin: '200px' })
   }
-    
+
   window.moduleA = {
     method1: method1
   }

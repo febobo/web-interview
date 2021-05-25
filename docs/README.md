@@ -199,6 +199,13 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：什么是HTTP? HTTP 和 HTTPS 的区别?](https://github.com/febobo/web-interview/issues/134)
 - [面试官：为什么说HTTPS比HTTP安全? HTTPS是如何保证安全的？](https://github.com/febobo/web-interview/issues/135)
 - [面试官：如何理解UDP 和 TCP? 区别? 应用场景?](https://github.com/febobo/web-interview/issues/136)
+- [面试官：如何理解OSI七层模型?](https://github.com/febobo/web-interview/issues/139)
+- [面试官：如何理解TCP/IP协议?](https://github.com/febobo/web-interview/issues/140)
+- [面试官：DNS协议 是什么？说说DNS 完整的查询过程?](https://github.com/febobo/web-interview/issues/141)
+- [面试官：如何理解CDN？说说实现原理？](https://github.com/febobo/web-interview/issues/142)
+- [面试官：说说 HTTP1.0/1.1/2.0 的区别?](https://github.com/febobo/web-interview/issues/143)
+- [面试官：说说HTTP 常见的状态码有哪些，适用场景？](https://github.com/febobo/web-interview/issues/144)
+- [面试官：说一下 GET 和 POST 的区别？](https://github.com/febobo/web-interview/issues/145)
 ## 👧 更多系列
 
 ### 面试官React系列/精选33道

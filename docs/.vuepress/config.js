@@ -190,7 +190,14 @@ module.exports = {
         children:[
           ["http/HTTP_HTTPS", "什么是HTTP? HTTP 和 HTTPS 的区别?"],
           ["http/HTTPS", "为什么说HTTPS比HTTP安全? HTTPS是如何保证安全的？"],
-          ["http/UDP_TCP", "如何理解UDP 和 TCP? 区别? 应用场景?"]
+          ["http/UDP_TCP", "如何理解UDP 和 TCP? 区别? 应用场景?"],
+          ["http/OSI", "如何理解OSI七层模型?"],
+          ["http/TCP_IP", "如何理解TCP/IP协议?"],
+          ["http/DNS", "DNS协议 是什么？说说DNS 完整的查询过程?"],
+          ["http/CDN", "如何理解CDN？说说实现原理？"],
+          ["http/1.0_1.1_2.0", "说说 HTTP1.0/1.1/2.0 的区别?"],
+          ["http/status", "说说 HTTP 常见的状态码有哪些，适用场景？"],
+          ["http/GET_POST", "说一下 GET 和 POST 的区别？"]
         ]
       }
     ],

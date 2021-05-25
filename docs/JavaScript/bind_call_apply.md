@@ -24,7 +24,7 @@ setTimeout(obj.say,0); //lucy，this指向window对象
 
 从上面可以看到，正常情况`say`方法输出`martin`
 
-但是我们把`say`放在`setTimeout`方法中，在定时器中是作为回调函数来执行的，因此回到主栈执行时是在全局执行上下文的环境中执行的，这时候`this`指向`window`，所以输出`luck`
+但是我们把`say`放在`setTimeout`方法中，在定时器中是作为回调函数来执行的，因此回到主栈执行时是在全局执行上下文的环境中执行的，这时候`this`指向`window`，所以输出`lucy`
 
 我们实际需要的是`this`指向`obj`对象，这时候就需要该改变`this`指向了
 

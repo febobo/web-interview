@@ -185,7 +185,7 @@ module.exports = {
         ]
       },
       {
-        title: "HTTP系列  ( 进行中..)",
+        title: "HTTP系列  ( 已完结..)",
         collapsable: false,
         children:[
           ["http/HTTP_HTTPS", "什么是HTTP? HTTP 和 HTTPS 的区别?"],
@@ -197,7 +197,21 @@ module.exports = {
           ["http/CDN", "如何理解CDN？说说实现原理？"],
           ["http/1.0_1.1_2.0", "说说 HTTP1.0/1.1/2.0 的区别?"],
           ["http/status", "说说 HTTP 常见的状态码有哪些，适用场景？"],
-          ["http/GET_POST", "说一下 GET 和 POST 的区别？"]
+          ["http/GET_POST", "说一下 GET 和 POST 的区别？"],
+          ["http/headers", "说说 HTTP 常见的请求头有哪些? 作用？"],
+          ["http/after_url", "说说地址栏输入 URL 敲下回车后发生了什么？"],
+          ["http/handshakes_waves", "说说TCP为什么需要三次握手和四次挥手？"],
+          ["http/WebSocket", "说说对WebSocket的理解？应用场景？"]
+        ]
+      },
+      {
+        title: "NodeJS系列  ( 进行中..)",
+        collapsable: false,
+        children:[
+          ["NodeJS/nodejs", "说说你对Node.js 的理解？优缺点？应用场景？"],
+          ["NodeJS/global", "说说 Node. js 有哪些全局对象？"],
+          ["NodeJS/process", "说说对 Node 中的 process 的理解？有哪些常用方法？"],
+          ["NodeJS/fs", "说说对 Node 中的 fs模块的理解? 有哪些常用方法"],
         ]
       }
     ],

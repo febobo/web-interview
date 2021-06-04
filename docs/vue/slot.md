@@ -75,7 +75,7 @@ customElements.define('element-details',
 
 子组件`Child.vue`
 
-```js
+```html
 <template>
     <slot>
       <p>插槽后备的内容</p>
@@ -85,7 +85,7 @@ customElements.define('element-details',
 
 父组件
 
-```js
+```html
 <Child>
   <div>默认插槽</div>  
 </Child>
@@ -101,7 +101,7 @@ customElements.define('element-details',
 
 子组件`Child.vue`
 
-```js
+```html
 <template>
     <slot>插槽后备的内容</slot>
   <slot name="content">插槽后备的内容</slot>
@@ -110,7 +110,7 @@ customElements.define('element-details',
 
 父组件
 
-```js
+```html
 <child>
     <template v-slot:default>具名插槽</template>
     <!-- 具名插槽⽤插槽名做参数 -->
@@ -128,7 +128,7 @@ customElements.define('element-details',
 
 子组件`Child.vue`
 
-```js
+```html
 <template> 
   <slot name="footer" testProps="子组件的值">
           <h3>没传footer插槽</h3>
@@ -138,7 +138,7 @@ customElements.define('element-details',
 
 父组件
 
-```js
+```html
 <child> 
     <!-- 把v-slot的值指定为作⽤域上下⽂对象 -->
     <template v-slot:default="slotProps">

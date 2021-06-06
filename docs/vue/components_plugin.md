@@ -116,7 +116,7 @@ Vue.component('my-component-name', { /* ... */ })
 
 局部注册只需在用到的地方通过`components`属性注册一个组件
 
-```
+```js
 const component1 = {...} // 定义一个组件
 
 export default {
@@ -130,7 +130,7 @@ export default {
 #### 插件注册
 插件的注册通过`Vue.use()`的方式进行注册（安装），第一个参数为插件的名字，第二个参数是可选择的配置项
 
-```
+```js
 Vue.use(插件名字,{ /* ... */} )
 ```
 

@@ -99,7 +99,7 @@ class Observer {
 
  ![](https://static.vue-js.com/f27e19c0-3ac9-11eb-85f6-6fac77c0c9b3.png)
 
-```
+```js
 class Compile {  
   constructor(el, vm) {  
     this.$vm = vm;  

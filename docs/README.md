@@ -206,6 +206,17 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：说说 HTTP1.0/1.1/2.0 的区别?](https://github.com/febobo/web-interview/issues/143)
 - [面试官：说说HTTP 常见的状态码有哪些，适用场景？](https://github.com/febobo/web-interview/issues/144)
 - [面试官：说一下 GET 和 POST 的区别？](https://github.com/febobo/web-interview/issues/145)
+- [面试官：说说 HTTP 常见的请求头有哪些? 作用？](https://github.com/febobo/web-interview/issues/149)
+- [面试官：说说地址栏输入 URL 敲下回车后发生了什么？](https://github.com/febobo/web-interview/issues/150)
+- [面试官：说说TCP为什么需要三次握手和四次挥手？](https://github.com/febobo/web-interview/issues/151)
+- [面试官：说说对WebSocket的理解？应用场景？](https://github.com/febobo/web-interview/issues/152)
+
+<h3 style="text-align: center">NodeJS系列</h3>
+
+- [面试官：说说你对Node.js 的理解？优缺点？应用场景？](https://github.com/febobo/web-interview/issues/153)
+- [面试官：说说 Node. js 有哪些全局对象？](https://github.com/febobo/web-interview/issues/154)
+- [面试官：说说对 Node 中的 process 的理解？有哪些常用方法？](https://github.com/febobo/web-interview/issues/155)
+- [面试官：说说对 Node 中的 fs模块的理解? 有哪些常用方法](https://github.com/febobo/web-interview/issues/156)
 ## 👧 更多系列
 
 ### 面试官React系列/精选33道

@@ -206,7 +206,7 @@ people.find((element, index, array) => element.age < 28) // // {name: "Matt", ag
 
 ### reverse()
 
-顾名思义，将数组元素方向排列
+顾名思义，将数组元素方向反转
 
 ```js
 let values = [1, 2, 3, 4, 5];

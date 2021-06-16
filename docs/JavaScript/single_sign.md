@@ -25,7 +25,7 @@ SSO 一般都需要一个独立的认证中心（passport），子系统的登�
 
 ### 同域名下的单点登录
 
-`cookie`的`domin`属性设置为当前域的父域，并且父域的`cookie`会被子域所共享。`path`属性默认为`web`应用的上下文路径
+`cookie`的`domain`属性设置为当前域的父域，并且父域的`cookie`会被子域所共享。`path`属性默认为`web`应用的上下文路径
 
 利用 `Cookie` 的这个特点，没错，我们只需要将` Cookie `的` domain`属性设置为父域的域名（主域名），同时将 `Cookie `的` path `属性设置为根路径，将 `Session ID`（或 `Token`）保存到父域中。这样所有的子域应用就都可以访问到这个` Cookie `
 

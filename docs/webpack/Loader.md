@@ -11,7 +11,7 @@
 
 在`webpack`内部中，任何文件都是模块，不仅仅只是`js`文件
 
-默认情况下，在遇到`import`或者`load`加载模块的时候，`webpack`只支持对`js`文件打包
+默认情况下，在遇到`import`或者`require`加载模块的时候，`webpack`只支持对`js` 和 `json` 文件打包
 
 像`css`、`sass`、`png`等这些类型的文件的时候，`webpack`则无能为力，这时候就需要配置对应的`loader`进行文件内容的解析
 

@@ -205,7 +205,7 @@ module.exports = {
         ]
       },
       {
-        title: "NodeJS系列  ( 进行中..)",
+        title: "NodeJS系列  ( 已完结..)",
         collapsable: false,
         children:[
           ["NodeJS/nodejs", "说说你对 Node.js 的理解？优缺点？应用场景？"],

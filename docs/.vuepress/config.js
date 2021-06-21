@@ -208,10 +208,20 @@ module.exports = {
         title: "NodeJS系列  ( 进行中..)",
         collapsable: false,
         children:[
-          ["NodeJS/nodejs", "说说你对Node.js 的理解？优缺点？应用场景？"],
-          ["NodeJS/global", "说说 Node. js 有哪些全局对象？"],
+          ["NodeJS/nodejs", "说说你对 Node.js 的理解？优缺点？应用场景？"],
+          ["NodeJS/global", "说说 Node.js 有哪些全局对象？"],
           ["NodeJS/process", "说说对 Node 中的 process 的理解？有哪些常用方法？"],
           ["NodeJS/fs", "说说对 Node 中的 fs模块的理解? 有哪些常用方法"],
+          ["NodeJS/Buffer", "说说对 Node 中的 Buffer 的理解？应用场景？"],
+          ["NodeJS/Stream", "说说对 Node 中的 Stream 的理解？应用场景？"],
+          ["NodeJS/EventEmitter", "说说Node中的EventEmitter? 如何实现一个EventEmitter?"],
+          ["NodeJS/event_loop", "说说对 Nodejs 中的事件循环机制理解?"],
+          ["NodeJS/require_order", "说说 Node 文件查找的优先级以及 Require 方法的文件查找策略?"],
+          ["NodeJS/middleware", "说说对中间件概念的理解，如何封装 node 中间件？"],
+          ["NodeJS/jwt", "如何实现jwt鉴权机制？说说你的思路"],
+          ["NodeJS/file_upload", "如何实现文件上传？说说你的思路"],
+          ["NodeJS/paging", "如果让你来设计一个分页功能, 你会怎么设计? 前后端如何交互?"],
+          ["NodeJS/performance", "Node性能如何进行监控以及优化？"],
         ]
       }
     ],

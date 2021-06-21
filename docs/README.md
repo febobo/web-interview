@@ -217,6 +217,16 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：说说 Node. js 有哪些全局对象？](https://github.com/febobo/web-interview/issues/154)
 - [面试官：说说对 Node 中的 process 的理解？有哪些常用方法？](https://github.com/febobo/web-interview/issues/155)
 - [面试官：说说对 Node 中的 fs模块的理解? 有哪些常用方法](https://github.com/febobo/web-interview/issues/156)
+- [面试官：说说对 Node 中的 Buffer 的理解？应用场景？](https://github.com/febobo/web-interview/issues/164)
+- [面试官：说说对 Node 中的 Stream 的理解？应用场景？](https://github.com/febobo/web-interview/issues/165)
+- [面试官：说说Node中的EventEmitter? 如何实现一个EventEmitter?](https://github.com/febobo/web-interview/issues/166)
+- [面试官：说说对Nodejs中的事件循环机制理解?](https://github.com/febobo/web-interview/issues/167)
+- [面试官：说说 Node 文件查找的优先级以及 Require 方法的文件查找策略?](https://github.com/febobo/web-interview/issues/168)
+- [面试官：说说对中间件概念的理解，如何封装 node 中间件？](https://github.com/febobo/web-interview/issues/169)
+- [面试官：如何实现jwt鉴权机制？说说你的思路](https://github.com/febobo/web-interview/issues/170)
+- [面试官：如何实现文件上传？说说你的思路](https://github.com/febobo/web-interview/issues/171)
+- [面试官：如果让你来设计一个分页功能, 你会怎么设计? 前后端如何交互?](https://github.com/febobo/web-interview/issues/172)
+- [面试官：Node性能如何进行监控以及优化？](https://github.com/febobo/web-interview/issues/173)
 ## 👧 更多系列
 
 ### 面试官React系列/精选33道

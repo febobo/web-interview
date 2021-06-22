@@ -39,7 +39,7 @@ CORS （Cross-Origin Resource Sharing，跨域资源共享）是一个系统，�
 
 以` koa`框架举例
 
-添加中间件，直接设置`Access-Control-Allow-Origin`请求头
+添加中间件，直接设置`Access-Control-Allow-Origin`响应头
 
 ```js
 app.use(async (ctx, next)=> {

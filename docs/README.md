@@ -228,7 +228,7 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：如果让你来设计一个分页功能, 你会怎么设计? 前后端如何交互?](https://github.com/febobo/web-interview/issues/172)
 - [面试官：Node性能如何进行监控以及优化？](https://github.com/febobo/web-interview/issues/173)
 
-- <h3 style="text-align: center">NodeJS系列</h3>
+<h3 style="text-align: center">React系列</h3>
 
 - [面试官：说说对React的理解？有哪些特性？](https://github.com/febobo/web-interview/issues/180)
 - [面试官：说说 Real DOM和 Virtual DOM 的区别？优缺点？](https://github.com/febobo/web-interview/issues/181)

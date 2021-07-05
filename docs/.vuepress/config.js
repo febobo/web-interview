@@ -223,6 +223,22 @@ module.exports = {
           ["NodeJS/paging", "如果让你来设计一个分页功能, 你会怎么设计? 前后端如何交互?"],
           ["NodeJS/performance", "Node性能如何进行监控以及优化？"],
         ]
+      },
+      {
+        title: "React系列  ( 进行中..)",
+        collapsable: false,
+        children:[
+          ["React/React", "说说对React的理解？有哪些特性？"],
+          ["React/Real DOM_Virtual DOM", "说说 Real DOM和 Virtual DOM 的区别？优缺点？"],
+          ["React/life cycle", "说说 React 生命周期有哪些不同阶段？每个阶段对应的方法是？"],
+          ["React/state_props", "state 和 props有什么区别？"],
+          ["React/super()_super(props)", "super()和super(props)有什么区别？"],
+          ["React/setState", "说说 React中的setState执行机制"],
+          ["React/SyntheticEvent", "说说React的事件机制？"],
+          ["React/Binding events", "React事件绑定的方式有哪些？区别？"],
+          ["React/Building components", "React构建组件的方式有哪些？区别？"],
+          ["React/communication", "React中组件之间如何通信？"]
+        ]
       }
     ],
   },

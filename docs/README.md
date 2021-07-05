@@ -227,6 +227,20 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：如何实现文件上传？说说你的思路](https://github.com/febobo/web-interview/issues/171)
 - [面试官：如果让你来设计一个分页功能, 你会怎么设计? 前后端如何交互?](https://github.com/febobo/web-interview/issues/172)
 - [面试官：Node性能如何进行监控以及优化？](https://github.com/febobo/web-interview/issues/173)
+
+- <h3 style="text-align: center">NodeJS系列</h3>
+
+- [面试官：说说对React的理解？有哪些特性？](https://github.com/febobo/web-interview/issues/180)
+- [面试官：说说 Real DOM和 Virtual DOM 的区别？优缺点？](https://github.com/febobo/web-interview/issues/181)
+- [面试官：说说 React 生命周期有哪些不同阶段？每个阶段对应的方法是？](https://github.com/febobo/web-interview/issues/182)
+- [面试官：state 和 props有什么区别？](https://github.com/febobo/web-interview/issues/183)
+- [面试官：super()和super(props)有什么区别？](https://github.com/febobo/web-interview/issues/184)
+- [面试官：说说React中的setState执行机制](https://github.com/febobo/web-interview/issues/185)
+- [面试官：说说React的事件机制？](https://github.com/febobo/web-interview/issues/186)
+- [面试官：React事件绑定的方式有哪些？区别？](https://github.com/febobo/web-interview/issues/187)
+- [面试官：React构建组件的方式有哪些？区别？](https://github.com/febobo/web-interview/issues/188)
+- [面试官：React中组件之间如何通信？](https://github.com/febobo/web-interview/issues/189)
+
 ## 👧 更多系列
 
 ### 面试官React系列/精选33道

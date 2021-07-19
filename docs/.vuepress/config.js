@@ -237,7 +237,16 @@ module.exports = {
           ["React/SyntheticEvent", "说说React的事件机制？"],
           ["React/Binding events", "React事件绑定的方式有哪些？区别？"],
           ["React/Building components", "React构建组件的方式有哪些？区别？"],
-          ["React/communication", "React中组件之间如何通信？"]
+          ["React/communication", "React中组件之间如何通信？"],
+          ["React/key", "React中的key有什么作用？"],
+          ["React/React refs", "说说对React refs 的理解？应用场景？"],
+          ["React/class_function component", "说说对React中类组件和函数组件的理解？有什么区别？"],
+          ["React/High order components", "说说对高阶组件的理解？应用场景?"],
+          ["React/React Hooks", "说说对React Hooks的理解？解决了什么问题？"],
+          ["React/import css", "说说react中引入css的方式有哪几种？区别？"],
+          ["React/animation", "在react中组件间过渡动画如何实现？"],
+          ["React/redux", "说说你对Redux的理解？其工作原理？"],
+          ["React/Redux Middleware", "说说对Redux中间件的理解？常用的中间件有哪些？实现原理？"]
         ]
       }
     ],

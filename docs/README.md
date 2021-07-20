@@ -240,6 +240,15 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：React事件绑定的方式有哪些？区别？](https://github.com/febobo/web-interview/issues/187)
 - [面试官：React构建组件的方式有哪些？区别？](https://github.com/febobo/web-interview/issues/188)
 - [面试官：React中组件之间如何通信？](https://github.com/febobo/web-interview/issues/189)
+- [面试官：React中的key有什么作用？](https://github.com/febobo/web-interview/issues/191)
+- [面试官：说说对React refs 的理解？应用场景？](https://github.com/febobo/web-interview/issues/192)
+- [面试官：说说对React中类组件和函数组件的理解？有什么区别？](https://github.com/febobo/web-interview/issues/193)
+- [面试官：说说对高阶组件的理解？应用场景?](https://github.com/febobo/web-interview/issues/194)
+- [面试官：说说对React Hooks的理解？解决了什么问题？](https://github.com/febobo/web-interview/issues/195)
+- [面试官：说说react中引入css的方式有哪几种？区别？](https://github.com/febobo/web-interview/issues/196)
+- [面试官：在react中组件间过渡动画如何实现？](https://github.com/febobo/web-interview/issues/197)
+- [面试官：说说你对Redux的理解？其工作原理？](https://github.com/febobo/web-interview/issues/198)
+- [面试官：说说对Redux中间件的理解？常用的中间件有哪些？实现原理？](https://github.com/febobo/web-interview/issues/199)
 
 ## 👧 更多系列
 

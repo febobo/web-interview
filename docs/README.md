@@ -243,13 +243,23 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：React中的key有什么作用？](https://github.com/febobo/web-interview/issues/191)
 - [面试官：说说对React refs 的理解？应用场景？](https://github.com/febobo/web-interview/issues/192)
 - [面试官：说说对React中类组件和函数组件的理解？有什么区别？](https://github.com/febobo/web-interview/issues/193)
+- [面试官：说说对受控组件和非受控组件的理解？应用场景？](https://github.com/febobo/web-interview/issues/207)
 - [面试官：说说对高阶组件的理解？应用场景?](https://github.com/febobo/web-interview/issues/194)
 - [面试官：说说对React Hooks的理解？解决了什么问题？](https://github.com/febobo/web-interview/issues/195)
 - [面试官：说说react中引入css的方式有哪几种？区别？](https://github.com/febobo/web-interview/issues/196)
 - [面试官：在react中组件间过渡动画如何实现？](https://github.com/febobo/web-interview/issues/197)
 - [面试官：说说你对Redux的理解？其工作原理？](https://github.com/febobo/web-interview/issues/198)
 - [面试官：说说对Redux中间件的理解？常用的中间件有哪些？实现原理？](https://github.com/febobo/web-interview/issues/199)
-
+- [面试官：你在React项目中是如何使用Redux的? 项目结构是如何划分的？](https://github.com/febobo/web-interview/issues/201)
+- [面试官：说说你对React Router的理解？常用的Router组件有哪些？](https://github.com/febobo/web-interview/issues/202)
+- [面试官：说说React Router有几种模式？实现原理？](https://github.com/febobo/web-interview/issues/203)
+- [面试官：说说你对immutable的理解？如何应用在react项目中？](https://github.com/febobo/web-interview/issues/204)
+- [面试官：说说React render方法的原理？在什么时候会被触发？](https://github.com/febobo/web-interview/issues/205)
+- [面试官：说说你是如何提高组件的渲染效率的？在React中如何避免不必要的render？](https://github.com/febobo/web-interview/issues/210)
+- [面试官：说说React diff的原理是什么？](https://github.com/febobo/web-interview/issues/208)
+- [面试官：说说对Fiber架构的理解？解决了什么问题？](https://github.com/febobo/web-interview/issues/209)
+- [面试官：说说React Jsx转换成真实DOM过程？](https://github.com/febobo/web-interview/issues/206)
+- [面试官：说说 React 性能优化的手段有哪些？ ](https://github.com/febobo/web-interview/issues/211)
 ## 👧 更多系列
 
 ### 面试官React系列/精选33道

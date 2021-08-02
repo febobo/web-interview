@@ -241,12 +241,23 @@ module.exports = {
           ["React/key", "React中的key有什么作用？"],
           ["React/React refs", "说说对React refs 的理解？应用场景？"],
           ["React/class_function component", "说说对React中类组件和函数组件的理解？有什么区别？"],
+          ["React/controlled_Uncontrolled", "说说对受控组件和非受控组件的理解？应用场景？"],
           ["React/High order components", "说说对高阶组件的理解？应用场景?"],
           ["React/React Hooks", "说说对React Hooks的理解？解决了什么问题？"],
           ["React/import css", "说说react中引入css的方式有哪几种？区别？"],
           ["React/animation", "在react中组件间过渡动画如何实现？"],
           ["React/redux", "说说你对Redux的理解？其工作原理？"],
-          ["React/Redux Middleware", "说说对Redux中间件的理解？常用的中间件有哪些？实现原理？"]
+          ["React/Redux Middleware", "说说对Redux中间件的理解？常用的中间件有哪些？实现原理？"],
+          ["React/how to use redux", "你在React项目中是如何使用Redux的? 项目结构是如何划分的？"],
+          ["React/React Router", "说说你对React Router的理解？常用的Router组件有哪些？"],
+          ["React/React Router model", "说说React Router有几种模式？实现原理？？"],
+          ["React/immutable", "说说你对immutable的理解？如何应用在react项目中？"],
+          ["React/render", "说说React render方法的原理？在什么时候会被触发？"],
+          ["React/improve_render", "说说你是如何提高组件的渲染效率的？在React中如何避免不必要的render？"],
+          ["React/diff", "说说React diff的原理是什么？"],
+          ["React/Fiber", "说说对Fiber架构的理解？解决了什么问题？"],
+          ["React/JSX to DOM", "说说React Jsx转换成真实DOM过程？"],
+          ["React/Improve performance", "说说 React 性能优化的手段有哪些？"]
         ]
       }
     ],

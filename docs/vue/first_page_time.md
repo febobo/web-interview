@@ -93,7 +93,7 @@ routes:[
 
 ### UI框架按需加载
 
-在日常使用`UI`框架，例如`element-UI`、或者`antd`，我们经常性直接饮用整个`UI`库
+在日常使用`UI`框架，例如`element-UI`、或者`antd`，我们经常性直接引用整个`UI`库
 
 ```js
 import ElementUI from 'element-ui'

@@ -260,6 +260,18 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：说说对Fiber架构的理解？解决了什么问题？](https://github.com/febobo/web-interview/issues/209)
 - [面试官：说说React Jsx转换成真实DOM过程？](https://github.com/febobo/web-interview/issues/206)
 - [面试官：说说 React 性能优化的手段有哪些？ ](https://github.com/febobo/web-interview/issues/211)
+- [面试官：说说你在React项目是如何捕获错误的？](https://github.com/febobo/web-interview/issues/216)
+- [面试官：说说React服务端渲染怎么做？原理是什么？](https://github.com/febobo/web-interview/issues/217)
+- [面试官：说说你在使用React 过程中遇到的常见问题？如何解决?](https://github.com/febobo/web-interview/issues/218)
+
+<h3 style="text-align: center">版本控制系列</h3>
+
+- [面试官：说说你对版本管理的理解？常用的版本管理工具有哪些？](https://github.com/febobo/web-interview/issues/219)
+- [面试官：说说你对Git的理解？](https://github.com/febobo/web-interview/issues/220)
+- [面试官：说说Git中 fork, clone,branch这三个概念，有什么区别?](https://github.com/febobo/web-interview/issues/221)
+- [面试官：说说Git常用的命令有哪些？](https://github.com/febobo/web-interview/issues/222)
+- [面试官：说说Git 中 HEAD、工作树和索引之间的区别？](https://github.com/febobo/web-interview/issues/223)
+- [面试官：说说对git pull 和 git fetch 的理解？有什么区别？](https://github.com/febobo/web-interview/issues/224)
 ## 👧 更多系列
 
 ### 面试官React系列/精选33道

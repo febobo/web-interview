@@ -225,7 +225,7 @@ module.exports = {
         ]
       },
       {
-        title: "React系列  ( 进行中..)",
+        title: "React系列  ( 已完结..)",
         collapsable: false,
         children:[
           ["React/React", "说说对React的理解？有哪些特性？"],
@@ -257,7 +257,22 @@ module.exports = {
           ["React/diff", "说说React diff的原理是什么？"],
           ["React/Fiber", "说说对Fiber架构的理解？解决了什么问题？"],
           ["React/JSX to DOM", "说说React Jsx转换成真实DOM过程？"],
-          ["React/Improve performance", "说说 React 性能优化的手段有哪些？"]
+          ["React/Improve performance", "说说 React 性能优化的手段有哪些？"],
+          ["React/capture error", "说说你在React项目是如何捕获错误的？"],
+          ["React/server side rendering", "说说React服务端渲染怎么做？原理是什么？"],
+          ["React/summary", "说说你在使用React 过程中遇到的常见问题？如何解决?"]
+        ]
+      },
+      {
+        title: "版本控制系列  ( 进行中..)",
+        collapsable: false,
+        children:[
+          ["git/Version control", "说说你对版本管理的理解？常用的版本管理工具有哪些？"],
+          ["git/Git", "说说你对Git的理解？"],
+          ["git/fork_clone_branch", "说说Git中 fork, clone,branch这三个概念，有什么区别?"],
+          ["git/command", "说说Git常用的命令有哪些？"],
+          ["git/HEAD_tree_index", "说说Git 中 HEAD、工作树和索引之间的区别？"],
+          ["git/git pull _git fetch", "说说对git pull 和 git fetch 的理解？有什么区别？"]
         ]
       }
     ],

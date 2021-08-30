@@ -264,7 +264,7 @@ module.exports = {
         ]
       },
       {
-        title: "版本控制系列  ( 进行中..)",
+        title: "版本控制系列  ( 已完结..)",
         collapsable: false,
         children:[
           ["git/Version control", "说说你对版本管理的理解？常用的版本管理工具有哪些？"],
@@ -272,7 +272,24 @@ module.exports = {
           ["git/fork_clone_branch", "说说Git中 fork, clone,branch这三个概念，有什么区别?"],
           ["git/command", "说说Git常用的命令有哪些？"],
           ["git/HEAD_tree_index", "说说Git 中 HEAD、工作树和索引之间的区别？"],
-          ["git/git pull _git fetch", "说说对git pull 和 git fetch 的理解？有什么区别？"]
+          ["git/git pull _git fetch", "说说对git pull 和 git fetch 的理解？有什么区别？"],
+          ["git/git stash", "说说你对git stash 的理解？应用场景？"],
+          ["git/git rebase_ git merge", "说说你对git rebase 和 git merge的理解？区别？"],
+          ["git/conflict", "说说 git 发生冲突的场景？如何解决？"],
+          ["git/git reset_ git revert", "说说你对git reset 和 git revert 的理解？区别？"],
+        ]
+      },
+      {
+        title: "操作系统系列  ( 进行中..)",
+        collapsable: false,
+        children:[
+          ["linux/linux", "说说你对操作系统的理解？核心概念有哪些？"],
+          ["linux/thread_process", "说说什么是进程？什么是线程？区别？"],
+          ["linux/file", "说说 linux系统下 文件操作常用的命令有哪些？"],
+          ["linux/vim", "说说 linux 系统下 文本编辑常用的命令有哪些？"],
+          ["linux/linux users", "说说你对 linux 用户管理的理解？相关的命令有哪些？"],
+          ["linux/redirect_pipe", "说说你对输入输出重定向和管道的理解？应用场景？"],
+          ["linux/shell", "说说你对 shell 的理解？常见的命令？"],
         ]
       }
     ],

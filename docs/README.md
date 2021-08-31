@@ -272,10 +272,23 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：说说Git常用的命令有哪些？](https://github.com/febobo/web-interview/issues/222)
 - [面试官：说说Git 中 HEAD、工作树和索引之间的区别？](https://github.com/febobo/web-interview/issues/223)
 - [面试官：说说对git pull 和 git fetch 的理解？有什么区别？](https://github.com/febobo/web-interview/issues/224)
+- [面试官：说说你对git stash 的理解？应用场景？](https://github.com/febobo/web-interview/issues/227)
+- [面试官：说说你对git rebase 和 git merge的理解？区别？](https://github.com/febobo/web-interview/issues/228)
+- [面试官：说说 git 发生冲突的场景？如何解决？](https://github.com/febobo/web-interview/issues/229)
+- [面试官：说说你对git reset 和 git revert 的理解？区别？](https://github.com/febobo/web-interview/issues/230)
+
+<h3 style="text-align: center">操作系统系列</h3>
+
+- [面试官：说说你对操作系统的理解？核心概念有哪些？](https://github.com/febobo/web-interview/issues/231)
+- [面试官：说说什么是进程？什么是线程？区别？](https://github.com/febobo/web-interview/issues/232)
+- [面试官：说说 linux系统下 文件操作常用的命令有哪些？](https://github.com/febobo/web-interview/issues/233)
+- [面试官：说说 linux 系统下 文本编辑常用的命令有哪些？](https://github.com/febobo/web-interview/issues/234)
+- [面试官：说说你对 linux 用户管理的理解？相关的命令有哪些？](https://github.com/febobo/web-interview/issues/235)
+- [面试官：说说你对输入输出重定向和管道的理解？应用场景？](https://github.com/febobo/web-interview/issues/236)
+- [面试官：说说你对 shell 的理解？常见的命令？](https://github.com/febobo/web-interview/issues/237)
+
 ## 👧 更多系列
 
-### 面试官React系列/精选33道
-筹备中..
 ### 面试官手写系列/精选33道
 筹备中..
 ### 面试官算法系列/精选33道

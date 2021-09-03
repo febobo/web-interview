@@ -67,7 +67,7 @@ props:{
 `Father.vue`组件
 
 ```js
-<Children name:"jack" age=18 />  
+<Children name="jack" age=18 />  
 ```
 
 ### \$emit 触发自定义事件
@@ -104,7 +104,7 @@ this.$refs.foo  // 获取子组件实例，通过子组件实例我们就能�
 ### EventBus
 
 - 使用场景：兄弟组件传值
-- 创建一个中央时间总线`EventBus`
+- 创建一个中央事件总线`EventBus`
 - 兄弟组件通过`$emit`触发自定义事件，`$emit`第二个参数为传递的数值
 - 另一个兄弟组件通过`$on`监听自定义事件
 
@@ -147,7 +147,7 @@ this.$bus.$on('foo', this.handle)
 
 ### $parent 或$ root
 
-- 通过共同祖辈`$parent`或者`$root`搭建通信侨联
+- 通过共同祖辈`$parent`或者`$root`搭建通信桥连
 
 兄弟组件
 

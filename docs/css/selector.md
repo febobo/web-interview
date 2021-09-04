@@ -78,19 +78,19 @@ CSS选择器是CSS规则的第一部分
 - 伪类选择器
 
 ```css
-:first-of-type 父元素的首个元素
-:last-of-type 父元素的最后一个元素
-:only-of-type 父元素的特定类型的唯一子元素
-:only-child 父元素中唯一子元素
-:nth-child(n) 选择父元素中第N个子元素
-:nth-last-of-type(n) 选择父元素中第N个子元素，从后往前
-:last-child 父元素的最后一个元素
+:first-of-type 表示一组同级元素中其类型的第一个元素
+:last-of-type 表示一组同级元素中其类型的最后一个元素
+:only-of-type 表示没有同类型兄弟元素的元素
+:only-child 表示没有任何兄弟的元素
+:nth-child(n) 根据元素在一组同级中的位置匹配元素
+:nth-last-of-type(n) 匹配给定类型的元素，基于它们在一组兄弟元素中的位置，从末尾开始计数
+:last-child 表示一组兄弟元素中的最后一个元素
 :root 设置HTML文档
 :empty 指定空的元素
-:enabled 选择被禁用元素
+:enabled 选择可用元素
 :disabled 选择被禁用元素
 :checked 选择选中的元素
-:not(selector) 选择非 <selector> 元素的所有元素
+:not(selector) 选择与 <selector> 不匹配的所有元素
 ```
 
 - 属性选择器

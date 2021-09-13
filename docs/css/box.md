@@ -1,8 +1,6 @@
 # 面试官：说说你对盒子模型的理解?
 
- # 面试官：说说你对盒子模型的理解?
-
- ![](https://static.vue-js.com/8d0e9ca0-8f9b-11eb-ab90-d9ae814b240d.png)
+![](https://static.vue-js.com/8d0e9ca0-8f9b-11eb-ab90-d9ae814b240d.png)
 
 
 ## 一、是什么

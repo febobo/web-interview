@@ -144,7 +144,7 @@ customElements.define('element-details',
     <template v-slot:default="slotProps">
       来⾃⼦组件数据：{{slotProps.testProps}}
     </template>
-  <template #default="slotProps">
+    <template #default="slotProps">
       来⾃⼦组件数据：{{slotProps.testProps}}
     </template>
 </child>

@@ -311,7 +311,7 @@ module.exports = {
         ]
       },
       {
-        title: "算法与数据结构系统系列  ( 进行中..)",
+        title: "算法与数据结构系统系列  ( 已完结..)",
         collapsable: false,
         children:[
           ["algorithm/Algorithm", "说说你对算法的理解？应用场景？"],
@@ -324,6 +324,14 @@ module.exports = {
           ["algorithm/Heap", "说说你对堆的理解？如何实现？应用场景？"],
           ["algorithm/graph", "说说你对图的理解？相关操作有哪些？"],
           ["algorithm/sort", "说说常见的排序算法有哪些？区别？"],
+          ["algorithm/bubbleSort", "说说你对冒泡排序的理解？如何实现？应用场景？"],
+          ["algorithm/selectionSort", "说说你对选择排序的理解？如何实现？应用场景？"],
+          ["algorithm/insertionSort", "说说你对插入排序的理解？如何实现？应用场景？"],
+          ["algorithm/mergeSort", "说说你对归并排序的理解？如何实现？应用场景？"],
+          ["algorithm/quickSort", "说说你对快速排序的理解？如何实现？应用场景？"],
+          ["algorithm/BinarySearch", "说说你对二分查找的理解？如何实现？应用场景？"],
+          ["algorithm/design1", "说说说你对分而治之、动态规划的理解？区别？"],
+          ["algorithm/design2", "说说你对贪心算法、回溯算法的理解？应用场景？"],
         ]
       },
     ],

@@ -293,7 +293,7 @@ module.exports = {
         ]
       },
       {
-        title: "typescript系统系列  ( 已完结..)",
+        title: "typescript系列  ( 已完结..)",
         collapsable: false,
         children:[
           ["typescript/typescript_javascript", "说说你对 typescript 的理解？与 javascript 的区别？"],
@@ -311,7 +311,7 @@ module.exports = {
         ]
       },
       {
-        title: "算法与数据结构系统系列  ( 已完结..)",
+        title: "算法与数据结构系列  ( 已完结..)",
         collapsable: false,
         children:[
           ["algorithm/Algorithm", "说说你对算法的理解？应用场景？"],
@@ -332,6 +332,32 @@ module.exports = {
           ["algorithm/BinarySearch", "说说你对二分查找的理解？如何实现？应用场景？"],
           ["algorithm/design1", "说说说你对分而治之、动态规划的理解？区别？"],
           ["algorithm/design2", "说说你对贪心算法、回溯算法的理解？应用场景？"],
+        ]
+      },
+      {
+        title: "小程序系列  ( 已完结..)",
+        collapsable: false,
+        children:[
+          ["applet/applet", "说说你对微信小程序的理解？优缺点？"],
+          ["applet/lifecycle", "说说微信小程序的生命周期函数有哪些？"],
+          ["applet/navigate", "说说微信小程序中路由跳转的方式有哪些？区别？"],
+          ["applet/optimization", "说说提高微信小程序的应用速度的手段有哪些？"],
+          ["applet/login", "说说微信小程序的登录流程？"],
+          ["applet/publish", "说说微信小程序的发布流程？"],
+          ["applet/requestPayment", "说说微信小程序的支付流程？"],
+          ["applet/WebView_jscore", "说说微信小程序的实现原理？"],
+        ]
+      },
+      {
+        title: "设计模式系列  ( 进行中..)",
+        collapsable: false,
+        children:[
+          ["design/design", "说说对设计模式的理解？常见的设计模式有哪些？"],
+          ["design/Singleton Pattern", "说说你对单例模式的理解？如何实现？"],
+          ["design/Factory  Pattern", "说说你对工厂模式的理解？应用场景？"],
+          ["design/Strategy Pattern", "说说你对策略模式的理解？应用场景？"],
+          ["design/Proxy Pattern", "说说你对代理模式的理解？应用场景？"],
+          ["design/Observer  Pattern", "说说你对发布订阅、观察者模式的理解？区别？"],
         ]
       },
     ],

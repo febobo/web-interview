@@ -322,6 +322,27 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：说说你对二分查找的理解？如何实现？应用场景？](https://github.com/febobo/web-interview/issues/276)
 - [面试官：说说你对分而治之、动态规划的理解？区别？](https://github.com/febobo/web-interview/issues/77)
 - [面试官：说说你对贪心算法、回溯算法的理解？应用场景？](https://github.com/febobo/web-interview/issues/278)
+
+<h3 style="text-align: center">小程序系列</h3>
+
+- [面试官：说说你对微信小程序的理解？优缺点？](https://github.com/febobo/web-interview/issues/282)
+- [面试官：说说微信小程序的生命周期函数有哪些？](https://github.com/febobo/web-interview/issues/283)
+- [面试官：说说微信小程序中路由跳转的方式有哪些？区别？](https://github.com/febobo/web-interview/issues/284)
+- [面试官：说说提高微信小程序的应用速度的手段有哪些？](https://github.com/febobo/web-interview/issues/285)
+- [面试官：说说微信小程序的登录流程？](https://github.com/febobo/web-interview/issues/286)
+- [面试官：说说微信小程序的发布流程？](https://github.com/febobo/web-interview/issues/287)
+- [面试官：说说微信小程序的支付流程？](https://github.com/febobo/web-interview/issues/288)
+- [面试官：说说微信小程序的实现原理？](https://github.com/febobo/web-interview/issues/289)
+
+<h3 style="text-align: center">设计模式系列</h3>
+
+- [面试官：说说对设计模式的理解？常见的设计模式有哪些？](https://github.com/febobo/web-interview/issues/290)
+- [面试官：说说你对单例模式的理解？如何实现？](https://github.com/febobo/web-interview/issues/291)
+- [面试官：说说你对工厂模式的理解？应用场景？](https://github.com/febobo/web-interview/issues/292)
+- [面试官：说说你对策略模式的理解？应用场景？](https://github.com/febobo/web-interview/issues/293)
+- [面试官：说说你对代理模式的理解？应用场景？](https://github.com/febobo/web-interview/issues/294)
+- [面试官：说说你对发布订阅、观察者模式的理解？区别？](https://github.com/febobo/web-interview/issues/295)
+
 ## 👧 更多系列
 
 ### 面试官手写系列/精选33道

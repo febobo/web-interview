@@ -89,7 +89,6 @@ const promise = new Promise(function(resolve, reject) {});
 `Promise`构建出来的实例存在以下方法：
 
 - then()
-- then()
 - catch()
 - finally()
 

@@ -403,7 +403,7 @@ export function mountComponent (
 
 阅读上面代码，我们得到以下结论：
 
-- 会触发`boforeCreate`钩子
+- 会触发`beforeCreate`钩子
 - 定义`updateComponent`渲染页面视图的方法
 - 监听组件数据，一旦发生变化，触发`beforeUpdate`生命钩子
 

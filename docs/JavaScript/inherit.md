@@ -8,7 +8,7 @@
 
 如果一个类别B“继承自”另一个类别A，就把这个B称为“A的子类”，而把A称为“B的父类别”也可以称“A是B的超类”
 
-- 继承的优点 
+- 继承的优点
 
 继承可以使得子类具有父类别的各种属性和方法，而不需要再次编写相同的代码
 
@@ -235,7 +235,7 @@ console.log(person5.getFriends()); // ["p1", "p2", "p3"]
 
 ### 寄生组合式继承
 
-寄生组合式继承，借助解决普通对象的继承问题的` Object.create` 方法，在亲全面几种继承方式的优缺点基础上进行改造，这也是所有继承方式里面相对最优的继承方式
+寄生组合式继承，借助解决普通对象的继承问题的` Object.create` 方法，在前面几种继承方式的优缺点基础上进行改造，这也是所有继承方式里面相对最优的继承方式
 
 ```js
 function clone (parent, child) {
@@ -262,7 +262,7 @@ Child6.prototype.getFriends = function () {
     return this.friends;
 }
 
-let person6 = new Child6(); 
+let person6 = new Child6();
 console.log(person6); //{friends:"child5",name:"child5",play:[1,2,3],__proto__:Parent6}
 console.log(person6.getName()); // parent6
 console.log(person6.getFriends()); // child5

@@ -6,9 +6,9 @@
 
 单独的使用 `TypeScript` 并不会导致学习成本很高，但是绝大部分前端开发者的项目都是依赖于框架的
 
-例如和 `vue`、`React` 这些框架结合使用的时候，会有一定的门槛
+例如与 `Vue`、`React` 这些框架结合使用的时候，会有一定的门槛
 
-使用 `TypeScript` 编写 `React` 代码，除了需要 `TypeScript` 这个库之外，还需要安装 `@types/React`、`@types/React-dom`
+使用 `TypeScript` 编写 `React` 代码，除了需要 `TypeScript` 这个库之外，还需要安装 `@types/react`、`@types/react-dom`
 
 ```bash
 npm i @types/react -s

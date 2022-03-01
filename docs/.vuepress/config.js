@@ -306,7 +306,7 @@ module.exports = {
           ["typescript/high type", "说说你对 TypeScript 中高级类型的理解？有哪些？"],
           ["typescript/decorator", "说说你对 TypeScript 装饰器的理解？应用场景？"],
           ["typescript/namespace_module", "说说对 TypeScript 中命名空间与模块的理解？区别？"],
-          ["typescript/react", "说说如何在React项目中应用TypeScript？"],
+          ["typescript/react", "说说如何在 React 项目中应用 TypeScript？"],
           ["typescript/vue", "说说如何在Vue项目中应用TypeScript？"]
         ]
       },

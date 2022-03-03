@@ -57,7 +57,7 @@ class Test extends Component {
     return (
      <div>
        <div style={div1}>123</div>
-       <div style={{backgroundColor:"red"}}>
+       <div style={{backgroundColor:"red"}}></div>
      </div>
     );
   }

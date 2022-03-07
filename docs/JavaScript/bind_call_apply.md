@@ -11,15 +11,15 @@
 那么什么情况下需要改变`this`的指向呢？下面举个例子
 
 ```js
-const name="lucy";
-const obj={
-    name:"martin",
-    say:function () {
+var name = "lucy";
+var obj = {
+    name: "martin",
+    say: function () {
         console.log(this.name);
     }
 };
-obj.say(); //martin，this指向obj对象
-setTimeout(obj.say,0); //lucy，this指向window对象
+obj.say(); // martin，this 指向 obj 对象
+setTimeout(obj.say,0); // lucy，this 指向 window 对象
 ```
 
 从上面可以看到，正常情况`say`方法输出`martin`

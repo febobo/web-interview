@@ -46,7 +46,7 @@ setTimeout(obj.say.bind(obj),0); //martin，this指向obj对象
 
 ```js
 function fn(...args){
-    console.log(this,args);
+    console.log(this.args);
 }
 let obj = {
     myname:"张三"
@@ -73,7 +73,7 @@ fn.apply(undefined,[1,2]); // this指向window
 
 ```js
 function fn(...args){
-    console.log(this,args);
+    console.log(this.args);
 }
 let obj = {
     myname:"张三"
@@ -100,7 +100,7 @@ bind方法和call很相似，第一参数也是`this`的指向，后面传入的
 
 ```js
 function fn(...args){
-    console.log(this,args);
+    console.log(this.args);
 }
 let obj = {
     myname:"张三"

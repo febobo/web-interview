@@ -268,7 +268,7 @@
 垂直居中
 
 - 单行文本父元素确认高度：height === line-height
-- 多行文本父元素确认高度：disaply: table-cell; vertical-align: middle
+- 多行文本父元素确认高度：display: table-cell; vertical-align: middle
 
 
 

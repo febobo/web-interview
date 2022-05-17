@@ -113,13 +113,13 @@ directives: {
 
 使用自定义指令可以满足我们日常一些场景，这里给出几个自定义指令的案例：
 
-- 防抖
+- 表单防止重复提交
 - 图片懒加载
 - 一键 Copy的功能
 
-### 输入框防抖
+### 表单防止重复提交
 
-防抖这种情况设置一个`v-throttle`自定义指令来实现
+表单防止重复提交这种情况设置一个`v-throttle`自定义指令来实现
 
 举个例子：
 
@@ -127,8 +127,8 @@ directives: {
 // 1.设置v-throttle自定义指令
 Vue.directive('throttle', {
   bind: (el, binding) => {
-    let throttleTime = binding.value; // 防抖时间
-    if (!throttleTime) { // 用户若不设置防抖时间，则默认2s
+    let throttleTime = binding.value; // 节流时间
+    if (!throttleTime) { // 用户若不设置节流时间，则默认2s
       throttleTime = 2000;
     }
     let cbFun;

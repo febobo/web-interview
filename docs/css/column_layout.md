@@ -408,7 +408,6 @@
     }
 
     .right {
-        width: 300px;
         background: lightblue;
     }
 

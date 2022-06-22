@@ -98,7 +98,7 @@ function bar(){
     var a = 3;
     foo();
 }
-n()
+bar()
 ```
 
 上述代码改变成一张图

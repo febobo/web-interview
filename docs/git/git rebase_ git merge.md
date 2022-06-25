@@ -53,7 +53,7 @@ git rebase --continue
 
 如果“指定分支”本身是当前分支的一个直接子节点，则会产生快照合并
 
-举个例子，`bugfix`分支是从`maste`r分支分叉出来的，如下所示：
+举个例子，`bugfix`分支是从`master`分支分叉出来的，如下所示：
 
  ![](https://static.vue-js.com/88410a30-fdd4-11eb-991d-334fd31f0201.png)
 

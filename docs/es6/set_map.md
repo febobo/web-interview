@@ -356,7 +356,7 @@ const ws = new WeakSet(a);
 - 没有遍历操作的`API`
 - 没有`size`属性
 
-`WeackSet`只能成员只能是引用类型，而不能是其他类型的值
+`WeakSet`只能成员只能是引用类型，而不能是其他类型的值
 
 ```js
 let ws=new WeakSet();

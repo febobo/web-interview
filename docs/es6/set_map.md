@@ -136,7 +136,7 @@ let unique = [...new Set(arr)]; // [3, 5, 2]
 
 // 字符串
 let str = "352255";
-let unique = [...new Set(str)].join(""); // ""
+let unique = [...new Set(str)].join(""); // "352"
 ```
 
 实现并集、交集、和差集

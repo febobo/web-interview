@@ -1,4 +1,4 @@
-# 面试官：数组新增了哪些扩展？
+# 面试官：ES6中数组新增了哪些扩展？
 
  ![](https://static.vue-js.com/a156b8d0-53c5-11eb-85f6-6fac77c0c9b3.png)
 

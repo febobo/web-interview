@@ -88,7 +88,7 @@ obj.bar  = '新属性'
 
 - Vue.set()
 - Object.assign()
-- $forcecUpdated()
+- $forceUpdate()
 
 
 

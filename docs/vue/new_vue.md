@@ -91,7 +91,7 @@ Vue.prototype._init = function (options?: Object) {
     callHook(vm, 'beforeCreate')
     // 初始化依赖注入内容，在初始化data、props之前
     initInjections(vm) // resolve injections before data/props
-    // 初始化props/data/method/watch/methods
+    // 初始化props/data/methods/watch/computed
     initState(vm)
     initProvide(vm) // resolve provide after data/props
     callHook(vm, 'created')

@@ -117,7 +117,7 @@ class PubSub {
   notify(type) {
     const messages = this.messages[type];
     const subscribers = this.listeners[type] || [];
-    subscribers.forEach((cb, index) => cb(messages[index]));
+    subscribers.forEach((cb) => cb(messages));
   }
 }
 ```

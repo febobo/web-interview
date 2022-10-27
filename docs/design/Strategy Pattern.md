@@ -86,7 +86,7 @@ registerForm.onsubmit = function(){
 此处也可以使用策略模式进行重构校验，第一步确定不变的内容，即策略规则对象，如下：
 
 ```js
-var strategy = {
+var strategys = {
     isNotEmpty: function(value,errorMsg) {
         if(value === '') {
             return errorMsg;

@@ -120,7 +120,7 @@ class Router {
     listerPopState () {  
         window.addEventListener('popstate' , e => {  
             const path = e.state && e.state.path;  
-            this.routers[path] && this.routers[path]()  
+            this.routes[path] && this.routes[path]()  
         })  
     }  
 }  

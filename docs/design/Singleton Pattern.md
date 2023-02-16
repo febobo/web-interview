@@ -61,7 +61,6 @@
   };
   // 获取类的实例
   Singleton.getInstance = (function() {
-      var instance = null;
       return function(name) {
           if(!this.instance) {
               this.instance = new Singleton(name);

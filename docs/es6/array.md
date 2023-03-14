@@ -265,7 +265,7 @@ new Array(3).fill(7)
 `keys()`是对键名的遍历、`values()`是对键值的遍历，`entries()`是对键值对的遍历
 
 ```js
-or (let index of ['a', 'b'].keys()) {
+for (let index of ['a', 'b'].keys()) {
   console.log(index);
 }
 // 0

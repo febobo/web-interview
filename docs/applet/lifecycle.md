@@ -142,7 +142,7 @@ Component({
 
 当存在也应用生命周期和页面周期的时候，相关的执行顺序如下：
 
-- 打开小程序：(App)onLaunch --> (App)onShow --> (Pages)onLoad --> (Pages)onShow --> (pages)onRead
+- 打开小程序：(App)onLaunch --> (App)onShow --> (Pages)onLoad --> (Pages)onShow --> (pages)onReady
 
 - 进入下一个页面：(Pages)onHide --> (Next)onLoad --> (Next)onShow --> (Next)onReady
 

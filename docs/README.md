@@ -12,7 +12,8 @@
 
 本仓库为语音打卡社群(JS每日一题)维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
 
-同时我们提供更好阅读体验的在线版本，[点这里](https://vue3js.cn/interview)
+同时我们提供更好阅读体验的在线版本，[点这里](https://vue3js.cn/interview)   
+点击[@AD](https://static.vue-js.com/Fr6pvXKNio5Pe4kEHk0ufXdZ1sHT)添加好友，获取最新面试真题，加前端500人大群
 
 避免失联可以先点star
 
@@ -57,9 +58,12 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
   <img  width="200px" style="max-width:200px; width:200px; height: 200px" src="https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png"/>
 </p>
 
+
+
 ## 🤡 内容
 
 点击[@公众号:JS每日一题](https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png)扫码关注，跟踪我们最新动态
+
 
 
 <h3 style="text-align: center" align="center">Vue系列</h3>

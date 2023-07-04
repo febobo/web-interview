@@ -128,7 +128,7 @@ strong {
 }
 ```
 
-`sass`声明的变量跟`less`十分的相似，只是变量名前面使用`@`开头
+`sass`声明的变量跟`less`十分的相似，只是变量名前面使用`$`开头
 
 ```Css
 $red: #c00;
@@ -256,7 +256,7 @@ $color: black;
 }
 ```
 
-`Sass`声明`mixins`时需要使用`@mixinn`，后面紧跟`mixin`的名，也可以设置参数，参数名为变量`$`声明的形式
+`Sass`声明`mixins`时需要使用`@mixin`，后面紧跟`mixin`的名，也可以设置参数，参数名为变量`$`声明的形式
 
 ```Css
 @mixin large-text {

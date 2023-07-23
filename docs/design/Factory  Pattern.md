@@ -67,7 +67,7 @@ let boss = new Factory('boss')
 console.log(boss)
 ```
 
-`Factory`就是一个简单工厂。当我们调用工厂函数时，只需要传递name、age、career就可以获取到包含用户工作内容的实例对象
+`Factory`就是一个简单工厂。当我们调用工厂函数时，只需要传递name、career就可以获取到包含用户工作内容的实例对象
 
 
 

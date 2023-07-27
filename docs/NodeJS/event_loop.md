@@ -20,7 +20,6 @@
 
  ![](https://static.vue-js.com/f2e34d80-c90e-11eb-ab90-d9ae814b240d.png)
 
-- timers阶段：这个阶段执行timer（setTimeout、setInterval）的回调
 - 定时器检测阶段(timers)：本阶段执行 timer 的回调，即 setTimeout、setInterval 里面的回调函数
 - I/O事件回调阶段(I/O callbacks)：执行延迟到下一个循环迭代的 I/O 回调，即上一轮循环中未被执行的一些I/O回调
 - 闲置阶段(idle, prepare)：仅系统内部使用

@@ -108,14 +108,14 @@
 
 Vue 3 中需要关注的一些新功能包括：
 
-- framents
+- fragments
 - Teleport
 - composition Api
 - createRenderer
 
 
 
-### framents
+### fragments
 
 在 `Vue3.x` 中，组件现在支持有多个根节点
 

@@ -119,7 +119,7 @@ Parent.prototype.getName = function () {
 }
 
 function Child(){
-    Parent1.call(this);
+    Parent.call(this);
     this.type = 'child'
 }
 

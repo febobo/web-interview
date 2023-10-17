@@ -49,7 +49,7 @@ performance.getEntriesByName("first-contentful-paint")[0].startTime
 
 常见的几种SPA首屏优化方式
 
-- 减小入口文件积
+- 减小入口文件体积
 - 静态资源本地缓存
 - UI框架按需加载
 - 图片资源的压缩

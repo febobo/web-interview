@@ -182,6 +182,11 @@ function deepClone(obj, hash = new WeakMap()) {
   if (obj === null) return obj; // 如果是null或者undefined我就不进行拷贝操作
   if (obj instanceof Date) return new Date(obj);
   if (obj instanceof RegExp) return new RegExp(obj);
+  if (obj instanceof Set) return new Set(obj);
+  // 以上三个例子可以合并
+//   if (obj instanceof Date || obj instanceof RegExp || obj instanceof Set) {
+//     return new obj.constructor()
+//   }
   // 可能是对象或者普通的值  如果是函数的话是不需要深拷贝
   if (typeof obj !== "object") return obj;
   // 是对象的话就要进行深拷贝

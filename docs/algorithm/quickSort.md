@@ -55,7 +55,7 @@ function quickSort (arr) {
     }
     return [...rec(left), mid, ...rec(right)]
   }
-  return res(arr)
+  return rec(arr)
 };
 ```
 

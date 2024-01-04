@@ -303,7 +303,7 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：说说你对 TypeScript 中高级类型的理解？有哪些？](https://github.com/febobo/web-interview/issues/251)
 - [面试官：说说你对 TypeScript 装饰器的理解？应用场景？](https://github.com/febobo/web-interview/issues/252)
 - [面试官：说说对 TypeScript 中命名空间与模块的理解？区别？](https://github.com/febobo/web-interview/issues/253)
-- [面试官：说说如何在React项目中应用TypeScript？](https://github.com/febobo/web-interview/issues/255)
+- [面试官：说说如何在React项目中应用TypeScript？](https://github.com/febobo/web-interview/issues/254)
 - [面试官：说说如何在Vue项目中应用TypeScript？](https://github.com/febobo/web-interview/issues/257)
 
 <h3 style="text-align: center">算法系列</h3>

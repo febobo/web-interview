@@ -122,9 +122,7 @@ div {
     }
 
     body {
-        /* 视差元素的父级需要3D视角 */
         perspective: 1px;
-        transform-style: preserve-3d; 
         height: 100%;
         overflow-y: scroll;
         overflow-x: hidden;
@@ -132,29 +130,26 @@ div {
     #app{
         width: 100vw;
         height:200vh;
-        background:skyblue;
-        padding-top:100px;
+        /* 视差元素的父级需要3D视角 */
+        transform-style: preserve-3d; 
     }
     .one{
         width:500px;
-        height:200px;
+        height:500px;
         background:#409eff;
-        transform: translateZ(0px);
-        margin-bottom: 50px;
+        transform: translateZ(-2px);
     }
     .two{
         width:500px;
-        height:200px;
+        height:500px;
         background:#67c23a;
         transform: translateZ(-1px);
-        margin-bottom: 150px;
     }
     .three{
         width:500px;
-        height:200px;
+        height:500px;
         background:#e6a23c;
-        transform: translateZ(-2px);
-        margin-bottom: 150px;
+        transform: translateZ(0px);
     }
 </style>
 <div id="app">

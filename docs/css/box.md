@@ -59,9 +59,9 @@
 
 从上图可以看到：
 
-- 盒子总宽度 = width + padding + border + margin;
+- 盒子总宽度 = width + padding + border;
 
-- 盒子总高度 = height + padding + border + margin
+- 盒子总高度 = height + padding + border;
 
 也就是，`width/height` 只是内容高度，不包含 `padding` 和 `border `值
 
@@ -75,9 +75,9 @@
 
 从上图可以看到：
 
-- 盒子总宽度 = width + margin;
+- 盒子总宽度 = width;
 
-- 盒子总高度 = height + margin;
+- 盒子总高度 = height;
 
 也就是，`width/height` 包含了 `padding `和 `border `值
 

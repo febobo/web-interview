@@ -106,16 +106,15 @@
 - redirectTo 关闭当前页面，跳转到应用内的某个页面
 - switchTab 跳转到 tabBar 页面，同时关闭其他非 tabBar 页面
 - navigateBack 返回上一页面
-- reLanch 关闭所有页面，打开到应用内的某个页面
+- reLaunch 关闭所有页面，打开到应用内的某个页面
 
 其中关于它们的页面栈的关系如下：
 
-- avigateTo 新页面入栈
-
+- navigateTo 新页面入栈
 - redirectTo 当前页面出栈，新页面入栈
 - navigateBack 页面不断出栈，直到目标返回页，新页面入栈
 - switchTab 页面全部出栈，只留下新的 Tab 页面
-- reLanch 页面全部出栈，只留下新的页面
+- reLaunch 页面全部出栈，只留下新的页面
 
 
 

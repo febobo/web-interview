@@ -40,7 +40,6 @@ SPA（single-page application），翻译过来就是单页应用`SPA`是一种�
 
 - 不利于搜索引擎的抓取
 - 首次渲染速度相对较慢
-- 
 
 ## 三、实现一个SPA
 

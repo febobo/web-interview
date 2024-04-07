@@ -121,7 +121,7 @@
         position: absolute;
         top: 50%;
         left: 50%;
-  transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
         width: 100px;
         height: 100px;
         background: red;
@@ -238,14 +238,8 @@
 
 - 利用定位+margin:auto
 - 利用定位+transform
-
-- 利用定位+margin:负值
-
 - flex布局
-
 - grid布局
-
-
 
 
 
@@ -268,7 +262,7 @@
 垂直居中
 
 - 单行文本父元素确认高度：height === line-height
-- 多行文本父元素确认高度：disaply: table-cell; vertical-align: middle
+- 多行文本父元素确认高度：display: table-cell; vertical-align: middle
 
 
 

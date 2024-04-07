@@ -269,11 +269,11 @@ alert(colors.join("||")); // red||green||blue
 
 ### some()
 
-对数组每一项都运行传入的函数，如果有一项函数返回 true ，则这个方法返回 true
+对数组每一项都运行传入的测试函数，如果至少有1个元素返回 true ，则这个方法返回 true
 
 ```js
 let numbers = [1, 2, 3, 4, 5, 4, 3, 2, 1];
-let someResult = numbers.every((item, index, array) => item > 2);
+let someResult = numbers.some((item, index, array) => item > 2);
 console.log(someResult) // true
 ```
 
@@ -281,7 +281,7 @@ console.log(someResult) // true
 
 ### every()
 
-对数组每一项都运行传入的函数，如果对每一项函数都返回 true ，则这个方法返回 true
+对数组每一项都运行传入的测试函数，如果所有元素都返回 true ，则这个方法返回 true
 
 ```js
 let numbers = [1, 2, 3, 4, 5, 4, 3, 2, 1];

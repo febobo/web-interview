@@ -293,10 +293,10 @@ module.exports = {
         ]
       },
       {
-        title: "typescript系列  ( 已完结..)",
+        title: "TypeScript 系列  ( 已完结..)",
         collapsable: false,
         children:[
-          ["typescript/typescript_javascript", "说说你对 typescript 的理解？与 javascript 的区别？"],
+          ["typescript/typescript_javascript", "说说你对 TypeScript 的理解？与 JavaScript 的区别？"],
           ["typescript/data_type", "说说 typescript 的数据类型有哪些？"],
           ["typescript/enum", "说说你对 TypeScript 中枚举类型的理解？应用场景？"],
           ["typescript/interface", "说说你对 TypeScript 中接口的理解？应用场景？"],
@@ -306,7 +306,7 @@ module.exports = {
           ["typescript/high type", "说说你对 TypeScript 中高级类型的理解？有哪些？"],
           ["typescript/decorator", "说说你对 TypeScript 装饰器的理解？应用场景？"],
           ["typescript/namespace_module", "说说对 TypeScript 中命名空间与模块的理解？区别？"],
-          ["typescript/react", "说说如何在React项目中应用TypeScript？"],
+          ["typescript/react", "说说如何在 React 项目中应用 TypeScript？"],
           ["typescript/vue", "说说如何在Vue项目中应用TypeScript？"]
         ]
       },

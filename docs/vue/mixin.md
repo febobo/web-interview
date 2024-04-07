@@ -43,7 +43,7 @@ Vue.component('componentA',{
 })
 ```
 
-该组件在使用的时候，混合了`mixin`里面的方法，在自动执行`create`生命钩子，执行`hello`方法
+该组件在使用的时候，混合了`mixin`里面的方法，在自动执行`created`生命钩子，执行`hello`方法
 
 ### 全局混入
 

@@ -101,7 +101,7 @@ function factorial(n, total) {
   return factorial(n - 1, n * total);
 }
 
-factorial(5) // 120
+factorial(5, 1) // 120
 ```
 
 可以看到，每一次返回的就是一个新的函数，不带上一个函数的参数，也就不需要储存上一个函数了。尾递归只需要保存一个调用栈，复杂度 O(1)

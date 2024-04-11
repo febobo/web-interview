@@ -111,7 +111,7 @@ this.$refs.foo  // 获取子组件实例，通过子组件实例我们就能�
 `Bus.js`
 
 ```js
-// 创建一个中央时间总线类  
+// 创建一个中央事件总线类  
 class Bus {  
   constructor() {  
     this.callbacks = {};   // 存放事件的名字  

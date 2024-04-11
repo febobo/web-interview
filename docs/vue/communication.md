@@ -76,7 +76,7 @@ props: {
 - 子组件通过`$emit触发`自定义事件，`$emit`第二个参数为传递的数值
 - 父组件绑定监听器获取到子组件传递过来的参数
 
-`Chilfen.vue`
+`Children.vue`
 
 ```js
 this.$emit('add', good)  

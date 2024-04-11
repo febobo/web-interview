@@ -52,15 +52,15 @@
 `Children.vue`
 
 ```js
-props:{  
-    // 字符串形式  
- name:String // 接收的类型参数  
-    // 对象形式  
-    age:{    
-        type:Number, // 接收的类型为数值  
-        defaule:18,  // 默认值为18  
-       require:true // age属性必须传递  
-    }  
+props: {
+    // 字符串形式  
+    name: String // 接收的类型参数  
+    // 对象形式  
+    age: {
+        type: Number, // 接收的类型为数值  
+        default: 18,  // 默认值为18  
+        require: true // age属性必须传递  
+    }
 }  
 ```
 

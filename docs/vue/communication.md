@@ -147,7 +147,7 @@ this.$bus.$on('foo', this.handle)
 
 ### $parent 或$ root
 
-- 通过共同祖辈`$parent`或者`$root`搭建通信桥连
+- 通过共同祖辈`$parent`或者`$root`搭建通信桥梁
 
 兄弟组件
 

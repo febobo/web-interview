@@ -217,7 +217,7 @@ inject:['foo'] // 获取到祖先组件传递过来的值
 - `state`用来存放共享变量的地方
 - `getter`，可以增加一个`getter`派生状态，\(相当于`store`中的计算属性），用来获得共享变量的值
 - `mutations`用来存放修改`state`的方法。
-- `actions`也是用来存放修改state的方法，不过`action`是在`mutations`的基础上进行。常用来做一些异步操作
+- `actions`也是用来存放修改state的方法，不过`actions`是在`mutations`的基础上进行。常用来做一些异步操作
 
 ### 小结
 

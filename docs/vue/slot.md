@@ -20,7 +20,7 @@
   <span slot="element-name">2</span>
 </element-details>
 ```
-`template`不会展示到页面中，需要用先获取它的引用，然后添加到`DOM`中，
+`template`不会展示到页面中，需要先获取它的引用，然后添加到`DOM`中，
 
 ```js
 customElements.define('element-details',

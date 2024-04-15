@@ -93,7 +93,7 @@ new Vue({
 
 ### 小结：
 
-- 部过滤器优先于全局过滤器被调用
+- 局部过滤器优先于全局过滤器被调用
 - 一个表达式可以使用多个过滤器。过滤器之间需要用管道符“|”隔开。其执行顺序从左往右
 
 
@@ -108,7 +108,7 @@ new Vue({
 Vue.filter('toThousandFilter', function (value) {
      if (!value) return ''
      value = value.toString()
-     return .replace(str.indexOf('.') > -1 ? /(\d)(?=(\d{3})+\.)/g : /(\d)(?=(?:\d{3})+$)/g, '$1,')
+     return value.replace(str.indexOf('.') > -1 ? /(\d)(?=(\d{3})+\.)/g : /(\d)(?=(?:\d{3})+$)/g, '$1,')
 })
 ```
 

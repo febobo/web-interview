@@ -23,7 +23,7 @@
 </keep-alive>
 ```
 
-使用`includes`和`exclude`：
+使用`include`和`exclude`：
 
 ```go
 <keep-alive include="a,b">
@@ -51,7 +51,7 @@
 
 ## 二、使用场景
 
-使用原则：当我们在某些场景下不需要让页面重新加载时我们可以使用`keepalive`
+使用原则：当我们在某些场景下不需要让页面重新加载时我们可以使用`keep-alive`
 
 举个栗子:
 

@@ -185,11 +185,11 @@ Vue.config.keyCodes.f2 = 113
 
 v-bind修饰符主要是为属性进行操作，用来分别有如下：
 
-- async
+- sync
 - prop
 - camel
 
-#### async
+#### sync
 
 能对`props`进行一个双向绑定
 
@@ -214,7 +214,7 @@ func2(){
 }
 ```
 
-使用`async`需要注意以下两点：
+使用`sync`需要注意以下两点：
 
 - 使用`sync`的时候，子组件传递的事件名格式必须为`update:value`，其中`value`必须与子组件中`props`中声明的名称完全一致
 

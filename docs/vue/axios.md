@@ -10,7 +10,7 @@
 
 ### 特性
 
-- 从浏览器中创建 `XMLHttpRequests`
+- 从浏览器中创建 `XMLHttpRequest`
 - 从 `node.js` 创建 `http`请求
 - 支持 `Promise` API
 - 拦截请求和响应

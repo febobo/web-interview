@@ -129,7 +129,7 @@ export default class VNode {
     this.raw = false
     /*静态节点标志*/
     this.isStatic = false
-    /*是否作为跟节点插入*/
+    /*是否作为根节点插入*/
     this.isRootInsert = true
     /*是否为注释节点*/
     this.isComment = false

@@ -252,7 +252,7 @@ if (normalizationType === ALWAYS_NORMALIZE) {
 
 无论是`simpleNormalizeChildren`还是`normalizeChildren`都是对`children`进行规范（使`children` 变成了一个类型为 `VNode` 的 `Array`），这里就不展开说了
 
-规范化`children`的源码位置在：src/core/vdom/helpers/normalzie-children.js
+规范化`children`的源码位置在：src/core/vdom/helpers/normalize-children.js
 
 在规范化`children`后，就去创建`VNode`
 

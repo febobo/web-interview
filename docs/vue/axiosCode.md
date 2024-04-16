@@ -228,7 +228,7 @@ class Axios {
 
 执行语句`axios.interceptors.response.use`和`axios.interceptors.request.use`的时候，实现获取`axios`实例上的`interceptors`对象，然后再获取`response`或`request`拦截器，再执行对应的拦截器的`use`方法
 
-把`Axios`上的方法和属性搬到`request`过去
+把`Axios`上的方法和属性搬到`request`中去
 
 ```js
 function CreateAxiosFn() {

@@ -214,7 +214,7 @@ export function _createElement(
     }
     if (normalizationType === ALWAYS_NORMALIZE) {
         children = normalizeChildren(children)
-    } else if ( === SIMPLE_NORMALIZE) {
+    } else if (normalizationType === SIMPLE_NORMALIZE) {
         children = simpleNormalizeChildren(children)
     }
 	// 创建VNode

@@ -92,7 +92,7 @@ function useCount() {
 }
 ```
 
-组件上中使用`count`
+组件中使用`count`
 
 ```js
 export default defineComponent({

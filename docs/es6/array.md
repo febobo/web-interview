@@ -281,6 +281,7 @@ for (let [index, elem] of ['a', 'b'].entries()) {
   console.log(index, elem);
 }
 // 0 "a"
+// 1 "b"
 ```
 
 

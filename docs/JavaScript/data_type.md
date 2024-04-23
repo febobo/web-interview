@@ -261,7 +261,7 @@ console.log(a); // 10值
 var obj1 = {}
 var obj2 = obj1;
 obj2.name = "Xxx";
-console.log(obj1.name); // xxx
+console.log(obj1.name); // Xxx
 ```
 
 引用类型数据存放在堆中，每个堆内存对象都有对应的引用地址指向它，引用地址存放在栈中。

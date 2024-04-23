@@ -68,7 +68,7 @@ document.getElementById('size-16').onclick = size16;
 function getArea(width, height) {
     return width * height
 }
-// 如果我们碰到的长方形的宽老是10
+// 如果我们碰到的长方形的宽高是10
 const area1 = getArea(10, 20)
 const area2 = getArea(10, 30)
 const area3 = getArea(10, 40)

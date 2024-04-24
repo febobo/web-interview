@@ -68,10 +68,10 @@ xhr.open(method, url, [async][, user][, password])
 
 - `async`：布尔值，表示是否异步执行操作，默认为`true`
 
--  `user`: 可选的用户名用于认证用途；默认为`null
+-  `user`: 可选的用户名用于认证用途；默认为`null`
 
 
-- `password`: 可选的密码用于认证用途，默认为`null
+- `password`: 可选的密码用于认证用途，默认为`null`
 
 
 

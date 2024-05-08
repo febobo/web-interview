@@ -39,7 +39,7 @@ class ShowAlert extends React.Component {
 
 ### render方法中使用bind
 
-如果使用一个类组件，在其中给某个组件/元素一个`onClick`属性，它现在并会自定绑定其`this`到当前组件，解决这个问题的方法是在事件函数后使用`.bind(this)`将`this`绑定到当前组件中
+如果使用一个类组件，在其中给某个组件/元素一个`onClick`属性，它现在会自动绑定其`this`到当前组件，解决这个问题的方法是在事件函数后使用`.bind(this)`将`this`绑定到当前组件中
 
 ```jsx
 class App extends React.Component {

@@ -33,7 +33,7 @@ jack.printName(); //输出 : jack
 jack.printAge(); //输出 : 20
 ```
 
-在上面的例子中，可以看到通过 `super` 关键字实现调用父类，`super` 代替的是父类的构建函数，使用 `super(name)` 相当于调用 `sup.prototype.constructor.call(this,name)`
+在上面的例子中，可以看到通过 `super` 关键字实现调用父类，`super` 代替的是父类的构造函数，使用 `super(name)` 相当于调用 `sup.prototype.constructor.call(this,name)`
 
 如果在子类中不使用 `super`，关键字，则会引发报错，如下：
 

@@ -19,7 +19,7 @@ class sup {
 
 class sub extends sup {
   constructor(name, age) {
-    super(name); // super代表的事父类的构造函数
+    super(name); // super代表的是父类的构造函数
     this.age = age;
   }
 
@@ -49,7 +49,7 @@ jack.printAge(); //输出 : 20
 class sub extends sup {
   constructor(name, age) {
     this.age = age;
-    super(name); // super代表的事父类的构造函数
+    super(name); // super代表的是父类的构造函数
   }
 }
 ```

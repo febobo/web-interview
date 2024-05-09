@@ -21,11 +21,11 @@
 
 ## 二、是什么
 
-React Fiber 是 Facebook 花费两年余时间对 React 做出的一个重大改变与优化，是对 React 核心算法的一次重新实现。从Facebook在 React Conf 2017 会议上确认，React Fiber 在React 16 版本发布
+React Fiber 是 Facebook 花费两年多的时间对 React 做出的一个重大改变与优化，是对 React 核心算法的一次重新实现。从Facebook在 React Conf 2017 会议上确认，React Fiber 在React 16 版本发布
 
 在`react`中，主要做了以下的操作：
 
-- 为每个增加了优先级，优先级高的任务可以中断低优先级的任务。然后再重新，注意是重新执行优先级低的任务
+- 为每个任务增加了优先级，优先级高的任务可以中断低优先级的任务。然后再重新执行，注意是重新执行优先级低的任务
 - 增加了异步任务，调用requestIdleCallback api，浏览器空闲的时候执行
 - dom diff树变成了链表，一个dom对应两个fiber（一个链表），对应两个队列，这都是为找到被中断的任务，重新执行
 

@@ -201,7 +201,7 @@ module: {
 
 `Tree Shaking` 是一个术语，在计算机中表示消除死代码，依赖于`ES Module`的静态语法分析（不执行任何的代码，可以明确知道模块的依赖关系）
 
-在`webpack`实现`Trss shaking`有两种不同的方案：
+在`webpack`实现`Tree shaking`有两种不同的方案：
 
 - usedExports：通过标记某些函数是否被使用，之后通过Terser来进行优化的
 - sideEffects：跳过整个模块/文件，直接查看该文件是否有副作用

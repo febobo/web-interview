@@ -263,7 +263,7 @@ Child6.prototype.getFriends = function () {
 }
 
 let person6 = new Child6();
-console.log(person6); //{friends:"child5",name:"child5",play:[1,2,3],__proto__:Parent6}
+console.log(person6); //{friends:"child5",name:"parent6",play:[1,2,3],__proto__:Parent6}
 console.log(person6.getName()); // parent6
 console.log(person6.getFriends()); // child5
 ```

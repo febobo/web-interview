@@ -247,6 +247,6 @@ detachEvent(eventType, handler)
 
 ```js
 var btn = document.getElementById('.btn');
-btn.attachEvent(‘onclick’, showMessage);
-btn.detachEvent(‘onclick’, showMessage);
+btn.attachEvent('onclick', showMessage);
+btn.detachEvent('onclick', showMessage);
 ```

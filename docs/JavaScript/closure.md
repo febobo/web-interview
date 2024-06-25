@@ -98,7 +98,7 @@ const getTwentyWidthArea = getArea(20)
 下面举个例子：
 
 ```js
-var Counter = (function() {
+var makeCounter = (function() {
   var privateCounter = 0;
   function changeBy(val) {
     privateCounter += val;
@@ -116,8 +116,8 @@ var Counter = (function() {
   }
 })();
 
-var Counter1 = makeCounter();
-var Counter2 = makeCounter();
+var Counter1 = makeCounter;
+var Counter2 = makeCounter;
 console.log(Counter1.value()); /* logs 0 */
 Counter1.increment();
 Counter1.increment();

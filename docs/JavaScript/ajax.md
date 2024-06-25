@@ -34,7 +34,7 @@
 
 - 构建请求所需的数据内容，并通过` XMLHttpRequest` 对象的 `send()` 方法发送给服务器端
 
-- 通过 `XMLHttpRequest` 对象提供的 `onreadystatechange` 事件监听服务器端你的通信状态
+- 通过 `XMLHttpRequest` 对象提供的 `onreadystatechange` 事件监听服务器端的通信状态
 
 - 接受并处理服务端向客户端响应的数据结果
 

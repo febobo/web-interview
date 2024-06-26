@@ -167,7 +167,7 @@ font-variant:偏大或偏小的字体
 
 ```css
 text-indent：文本缩进
-text-align：文本水平对刘
+text-align：文本水平对齐
 line-height：行高
 word-spacing：增加或减少单词间的空白
 letter-spacing：增加或减少字符间的空白

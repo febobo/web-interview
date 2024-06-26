@@ -73,7 +73,7 @@ function HelloComponent(props) /* context */{
 
 有状态的组件也就是组件内部存在维护的数据，在类创建的方式中通过`this.state`进行访问
 
-当调用`this.setState`修改组件的状态时，组价会再次会调用`render()`方法进行重新渲染
+当调用`this.setState`修改组件的状态时，组件会再次会调用`render()`方法进行重新渲染
 
 通过继承`React.Component`创建一个时钟示例如下：
 

@@ -163,7 +163,7 @@ const callback = function(entries, observer) {
     entries.forEach(entry => {
         entry.time;               // 触发的时间
         entry.rootBounds;         // 根元素的位置矩形，这种情况下为视窗位置
-        entry.boundingClientRect; // 被观察者的位置举行
+        entry.boundingClientRect; // 被观察者的位置矩形
         entry.intersectionRect;   // 重叠区域的位置矩形
         entry.intersectionRatio;  // 重叠区域占被观察者面积的比例（被观察者不是矩形时也按照矩形计算）
         entry.target;             // 被观察者

@@ -217,6 +217,10 @@ console.log(pos); // 1
 
 接收两个参数，第一个参数为匹配的内容，第二个参数为替换的元素（可用函数）
 
+其中一个、多个或所有匹配的 pattern 被替换为 replacement。pattern 可以是字符串或 RegExp，replacement 可以是字符串或一个在每次匹配时调用的函数。
+
+如果 pattern 是字符串，则只会替换第一个匹配项。原始的字符串不会改变。
+
 ```js
 let text = "cat, bat, sat, fat";
 let result = text.replace("at", "ond");

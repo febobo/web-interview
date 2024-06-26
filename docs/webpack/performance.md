@@ -201,7 +201,7 @@ module: {
 
 `Tree Shaking` 是一个术语，在计算机中表示消除死代码，依赖于`ES Module`的静态语法分析（不执行任何的代码，可以明确知道模块的依赖关系）
 
-在`webpack`实现`Trss shaking`有两种不同的方案：
+在`webpack`实现`Tree shaking`有两种不同的方案：
 
 - usedExports：通过标记某些函数是否被使用，之后通过Terser来进行优化的
 - sideEffects：跳过整个模块/文件，直接查看该文件是否有副作用
@@ -242,7 +242,7 @@ module.exports = {
 如果有些文件需要保留，可以设置为数组的形式
 
 ```js
-"sideEffecis":[
+"sideEffects":[
     "./src/util/format.js",
     "*.css" // 所有的css文件
 ]
@@ -288,7 +288,7 @@ module.exports = {
 
 默认情况下，所有的`JavaScript`代码（业务代码、第三方依赖、暂时没有用到的模块）在首页全部都加载，就会影响首页的加载速度
 
-代码分离可以分出出更小的`bundle`，以及控制资源加载优先级，提供代码的加载性能
+代码分离可以分出更小的`bundle`，以及控制资源加载优先级，提供代码的加载性能
 
 这里通过`splitChunksPlugin`来实现，该插件`webpack`已经默认安装和集成，只需要配置即可
 

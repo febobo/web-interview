@@ -131,7 +131,7 @@ componentDidUpdate(prevProps, prevState, snapshot) {
 
 ## componentWillUnmount
 
-此方法用于组件卸载前，清理一些注册是监听事件，或者取消订阅的网络请求等
+此方法用于组件卸载前，清理一些注册时的监听事件，或者取消订阅的网络请求等
 
 一旦一个组件实例被卸载，其不会被再次挂载，而只可能是被重新创建
 

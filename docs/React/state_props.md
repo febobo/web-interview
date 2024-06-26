@@ -66,7 +66,7 @@ const element = <Welcome name="Sara" onNameChanged={this.handleName} />;
 
 上述 `name` 属性与 `onNameChanged` 方法都能在子组件的 `props` 变量中访问
 
-在子组件中，`props` 在内部不可变的，如果想要改变它看，只能通过外部组件传入新的 `props` 来重新渲染子组件，否则子组件的 `props` 和展示形式不会改变
+在子组件中，`props` 在内部不可变的，如果想要改变它，只能通过外部组件传入新的 `props` 来重新渲染子组件，否则子组件的 `props` 和展示形式不会改变
 
 ## 三、区别
 

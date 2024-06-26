@@ -8,7 +8,7 @@
 
 实际上它只是一层对真实`DOM`的抽象，以`JavaScript` 对象 (`VNode` 节点) 作为基础的树，用对象的属性来描述节点，最终可以通过一系列操作使这棵树映射到真实环境上
 
-在`Javascript`对象中，虚拟`DOM` 表现为一个 `Object `对象。并且最少包含标签名 (`tag`)、属性 (`attrs`) 和子元素对象 (`children`) 三个属性，不同框架对这三个属性的名命可能会有差别
+在`Javascript`对象中，虚拟`DOM` 表现为一个 `Object `对象。并且最少包含标签名 (`tag`)、属性 (`attrs`) 和子元素对象 (`children`) 三个属性，不同框架对这三个属性的命名可能会有差别
 
 创建虚拟`DOM`就是为了更好将虚拟的节点渲染到页面视图中，所以虚拟`DOM`对象的节点与真实`DOM`的属性一一照应
 
@@ -95,7 +95,7 @@ export default class VNode {
   constructor (
     tag?: string,
     data?: VNodeData,
-    children?: ?Array<VNode>,
+    children?: Array<VNode>,
     text?: string,
     elm?: Node,
     context?: Component,
@@ -129,7 +129,7 @@ export default class VNode {
     this.raw = false
     /*静态节点标志*/
     this.isStatic = false
-    /*是否作为跟节点插入*/
+    /*是否作为根节点插入*/
     this.isRootInsert = true
     /*是否为注释节点*/
     this.isComment = false
@@ -214,7 +214,7 @@ export function _createElement(
     }
     if (normalizationType === ALWAYS_NORMALIZE) {
         children = normalizeChildren(children)
-    } else if ( === SIMPLE_NORMALIZE) {
+    } else if (normalizationType === SIMPLE_NORMALIZE) {
         children = simpleNormalizeChildren(children)
     }
 	// 创建VNode
@@ -252,7 +252,7 @@ if (normalizationType === ALWAYS_NORMALIZE) {
 
 无论是`simpleNormalizeChildren`还是`normalizeChildren`都是对`children`进行规范（使`children` 变成了一个类型为 `VNode` 的 `Array`），这里就不展开说了
 
-规范化`children`的源码位置在：src/core/vdom/helpers/normalzie-children.js
+规范化`children`的源码位置在：src/core/vdom/helpers/normalize-children.js
 
 在规范化`children`后，就去创建`VNode`
 

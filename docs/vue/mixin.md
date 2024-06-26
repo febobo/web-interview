@@ -165,7 +165,7 @@ export function initMixin (Vue: GlobalAPI) {
 }
 ```
 
-主要是调用`merOptions`方法
+主要是调用`mergeOptions`方法
 
 源码位置：/src/core/util/options.js
 

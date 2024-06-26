@@ -59,7 +59,7 @@ px会受到下面的因素的影响而变化：
 
 设备独立像素（Device Independent Pixel）：与设备无关的逻辑像素，代表可以通过程序控制使用的虚拟像素，是一个总体概念，包括了CSS像素
 
-在`javaScript`中可以通过`window.screen.width/ window.screen.height` 查看
+在`JavaScript`中可以通过`window.screen.width/ window.screen.height` 查看
 
 比如我们会说“电脑屏幕在 2560x1600分辨率下不适合玩游戏，我们把它调为 1440x900”，这里的“分辨率”（非严谨说法）指的就是设备独立像素
 

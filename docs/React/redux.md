@@ -35,7 +35,7 @@
 
 整个流程就是借书的用户需要先存在，然后需要借书，需要一句话来描述借什么书，图书馆管理员听到后需要查一下记录本，了解图书的位置，最后图书馆管理员会把这本书给到这个借书人
 
-转换为代码是，`React Components` 需要获取一些数据, 然后它就告知 `Store` 需要获取数据，这就是就是 `Action Creactor` , `Store` 接收到之后去 `Reducer` 查一下， `Reducer` 会告诉 `Store` 应该给这个组件什么数据
+转换为代码是，`React Components` 需要获取一些数据, 然后它就告知 `Store` 需要获取数据，这就是 `Action Creactor` , `Store` 接收到之后去 `Reducer` 查一下， `Reducer` 会告诉 `Store` 应该给这个组件什么数据
 
 
 
@@ -173,7 +173,7 @@ store.dispatch({
 - createStore可以帮助创建 store
 - store.dispatch 帮助派发 action , action 会传递给 store
 - store.getState 这个方法可以帮助获取 store 里边所有的数据内容
-- store.subscrible 方法订阅 store 的改变，只要 store 发生改变， store.subscrible 这个函数接收的这个回调函数就会被执行
+- store.subscribe 方法订阅 store 的改变，只要 store 发生改变， store.subscribe 这个函数接收的这个回调函数就会被执行
 
 
 ## 参考文献

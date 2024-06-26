@@ -154,7 +154,7 @@ export function render(_ctx, _cache, $props, $setup, $data, $options) {
 当静态内容大到一定量级时候，会用`createStaticVNode`方法在客户端去生成一个static node，这些静态`node`，会被直接`innerHtml`，就不需要创建对象，然后根据对象渲染
 
 ```js
-div>
+<div>
 	<div>
 		<span>你好</span>
 	</div>

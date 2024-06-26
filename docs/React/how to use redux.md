@@ -45,7 +45,7 @@
 
 `connect`方法将`store`上的`getState `和 `dispatch `包装成组件的`props`
 
-导入`conect`如下：
+导入`connect`如下：
 
 ```js
 import { connect } from "react-redux";

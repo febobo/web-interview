@@ -68,7 +68,7 @@ document.getElementById('size-16').onclick = size16;
 function getArea(width, height) {
     return width * height
 }
-// 如果我们碰到的长方形的宽老是10
+// 如果我们碰到的长方形的宽高是10
 const area1 = getArea(10, 20)
 const area2 = getArea(10, 30)
 const area3 = getArea(10, 40)
@@ -98,7 +98,7 @@ const getTwentyWidthArea = getArea(20)
 下面举个例子：
 
 ```js
-var Counter = (function() {
+var makeCounter = (function() {
   var privateCounter = 0;
   function changeBy(val) {
     privateCounter += val;
@@ -116,8 +116,8 @@ var Counter = (function() {
   }
 })();
 
-var Counter1 = makeCounter();
-var Counter2 = makeCounter();
+var Counter1 = makeCounter;
+var Counter2 = makeCounter;
 console.log(Counter1.value()); /* logs 0 */
 Counter1.increment();
 Counter1.increment();

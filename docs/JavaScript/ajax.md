@@ -34,7 +34,7 @@
 
 - 构建请求所需的数据内容，并通过` XMLHttpRequest` 对象的 `send()` 方法发送给服务器端
 
-- 通过 `XMLHttpRequest` 对象提供的 `onreadystatechange` 事件监听服务器端你的通信状态
+- 通过 `XMLHttpRequest` 对象提供的 `onreadystatechange` 事件监听服务器端的通信状态
 
 - 接受并处理服务端向客户端响应的数据结果
 
@@ -68,10 +68,10 @@ xhr.open(method, url, [async][, user][, password])
 
 - `async`：布尔值，表示是否异步执行操作，默认为`true`
 
--  `user`: 可选的用户名用于认证用途；默认为`null
+-  `user`: 可选的用户名用于认证用途；默认为`null`
 
 
-- `password`: 可选的密码用于认证用途，默认为`null
+- `password`: 可选的密码用于认证用途，默认为`null`
 
 
 

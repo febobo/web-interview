@@ -51,7 +51,7 @@ console.log(vm.$el.textContent) // 原始值
 
 等待同一事件循环中的所有数据变化完成之后，会将队列中的事件拿来进行处理，进行`DOM`的更新
 
-#### 为什么要有nexttick
+#### 为什么要有nextTick
 
 举个例子
 ```js

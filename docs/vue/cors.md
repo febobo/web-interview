@@ -69,7 +69,7 @@ ps: `Access-Control-Allow-Origin` 设置为*其实意义不大，可以说是形
 在`vue.config.js`文件，新增以下代码
 
 ```js
-amodule.exports = {
+module.exports = {
     devServer: {
         host: '127.0.0.1',
         port: 8084,

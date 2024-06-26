@@ -4,7 +4,7 @@
 
 ## 一、方式
 
-`javaScript`本地缓存的方法我们主要讲述以下四种：
+`JavaScript`本地缓存的方法我们主要讲述以下四种：
 
 - cookie
 - sessionStorage
@@ -43,7 +43,7 @@ Path=/docs   # /docs/Web/ 下的资源会带 Cookie 首部
 
 - 标记为 `Secure `的 `Cookie `只应通过被`HTTPS`协议加密过的请求发送给服务端
 
-通过上述，我们可以看到`cookie`又开始的作用并不是为了缓存而设计出来，只是借用了`cookie`的特性实现缓存
+通过上述，我们可以看到`cookie`开始的作用并不是为了缓存而设计出来，只是借用了`cookie`的特性实现缓存
 
 关于`cookie`的使用如下：
 
@@ -51,7 +51,7 @@ Path=/docs   # /docs/Web/ 下的资源会带 Cookie 首部
 document.cookie = '名字=值';
 ```
 
-关于`cookie`的修改，首先要确定`domain`和`path`属性都是相同的才可以，其中有一个不同得时候都会创建出一个新的`cookie`
+关于`cookie`的修改，首先要确定`domain`和`path`属性都是相同的才可以，其中有一个不同的时候都会创建出一个新的`cookie`
 
 ```js
 Set-Cookie:name=aa; domain=aa.net; path=/  # 服务端设置

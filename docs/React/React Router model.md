@@ -76,7 +76,7 @@ export default App;
 
 ## HashRouter
 
-`HashRouter`包裹了整应用，
+`HashRouter`包裹了整个应用，
 
 通过`window.addEventListener('hashChange',callback)`监听`hash`值的变化，并传递给其嵌套的组件
 

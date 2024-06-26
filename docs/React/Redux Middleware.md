@@ -12,7 +12,7 @@
 
 那么如果需要支持异步操作，或者支持错误处理、日志监控，这个过程就可以用上中间件
 
-`Redux`中，中间件就是放在就是在`dispatch`过程，在分发`action`进行拦截处理，如下图：
+`Redux`中，中间件就是放在`dispatch`过程，在分发`action`进行拦截处理，如下图：
 
  ![](https://static.vue-js.com/57edf750-e699-11eb-ab90-d9ae814b240d.png)
 

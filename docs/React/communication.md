@@ -156,7 +156,7 @@ class Parent extends React.Component {
 </PriceContext.Provider>
 ```
 
-如果想要获取`Provider`传递的数据，可以通过`Consumer`组件或者或者使用`contextType`属性接收，对应分别如下：
+如果想要获取`Provider`传递的数据，可以通过`Consumer`组件或者使用`contextType`属性接收，对应分别如下：
 
 ```jsx
 class MyClass extends React.Component {

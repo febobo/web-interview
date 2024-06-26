@@ -62,7 +62,7 @@ class Truck extends Car{
 
 ## 二、实现方式
 
-下面给出`JavaScripy`常见的继承方式：
+下面给出`JavaScript`常见的继承方式：
 
 - 原型链继承
 
@@ -88,15 +88,15 @@ class Truck extends Car{
   function Child() {
     this.type = 'child2';
   }
-  Child1.prototype = new Parent();
+  Child.prototype = new Parent();
   console.log(new Child())
 ```
 
 上面代码看似没问题，实际存在潜在问题
 
 ```js
-var s1 = new Child2();
-var s2 = new Child2();
+var s1 = new Child();
+var s2 = new Child();
 s1.play.push(4);
 console.log(s1.play, s2.play); // [1,2,3,4]
 ```
@@ -119,13 +119,13 @@ Parent.prototype.getName = function () {
 }
 
 function Child(){
-    Parent1.call(this);
+    Parent.call(this);
     this.type = 'child'
 }
 
 let child = new Child();
 console.log(child);  // 没问题
-console.log(child.getName());  // 会报错
+console.log(child.getName());  // 会报错 Uncaught TypeError: child.getName is not a function
 ```
 
 可以看到，父类原型对象中一旦存在父类之前自己定义的方法，那么子类将无法继承这些方法
@@ -136,7 +136,7 @@ console.log(child.getName());  // 会报错
 
 ### 组合继承
 
-前面我们讲到两种继承方式，各有优缺点。组合继承则将前两种方式继承起来
+前面我们讲到两种继承方式，各有优缺点。组合继承则将前两种方式结合起来
 
 ```js
 function Parent3 () {

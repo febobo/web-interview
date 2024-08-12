@@ -89,13 +89,13 @@ let copyResult = stringValue.repeat(2) // na na
 
 
 
-#### padEnd()
+#### padEnd()、padStart()
 
 复制字符串，如果小于指定长度，则在相应一边填充字符，直至满足长度条件
 
 ```js
 let stringValue = "foo";
-console.log(stringValue.padStart(6)); // " foo"
+console.log(stringValue.padStart(6)); // "   foo"
 console.log(stringValue.padStart(9, ".")); // "......foo"
 ```
 

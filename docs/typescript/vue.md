@@ -1,12 +1,10 @@
-# 面试官：说说如何在Vue项目中应用TypeScript？
+# 面试官：说说如何在 Vue 项目中应用 TypeScript？
 
-
-
- ![](https://static.vue-js.com/cc658c10-1565-11ec-8e64-91fdec0f05a1.png)
-
+![](https://static.vue-js.com/cc658c10-1565-11ec-8e64-91fdec0f05a1.png)
 
 ## 一、前言
-与link类似
+
+与 link 类似
 
 在`VUE`项目中应用`typescript`，我们需要引入一个库`vue-property-decorator`，
 
@@ -19,8 +17,6 @@
 - 初始化的 data 可以被声明为类属性
 - data、render 以及所有的 Vue 生命周期钩子可以直接作为类的成员方法
 - 所有其他属性，需要放在装饰器中
-
-
 
 ## 二、使用
 
@@ -39,67 +35,58 @@ vue-property-decorator 主要提供了多个装饰器和一个函数:
 - @Component (由 vue-class-component 提供)
 - Mixins (由 vue-class-component 提供)
 
-
-
 ### @Component
 
 `Component`装饰器它注明了此类为一个`Vue`组件，因此即使没有设置选项也不能省略
 
 如果需要定义比如 `name`、`components`、`filters`、`directives`以及自定义属性，就可以在`Component`装饰器中定义，如下：
 
-```vue
-import {Component,Vue} from 'vue-property-decorator';
-import {componentA,componentB} from '@/components';
+```ts
+import { Component, Vue } from "vue-property-decorator";
+import { componentA, componentB } from "@/components";
 
- @Component({
-    components:{
-        componentA,
-        componentB,
+@Component({
+  components: {
+    componentA,
+    componentB,
+  },
+  directives: {
+    focus: {
+      // 指令的定义
+      inserted: function (el) {
+        el.focus();
+      },
     },
-    directives: {
-        focus: {
-            // 指令的定义
-            inserted: function (el) {
-                el.focus()
-            }
-        }
-    }
+  },
 })
-export default class YourCompoent extends Vue{
-
-}
-
+export default class YourCompoent extends Vue {}
 ```
-
-
 
 ### computed、data、methods
 
-这里取消了组件的data和methods属性，以往data返回对象中的属性、methods中的方法需要直接定义在Class中，当做类的属性和方法
+这里取消了组件的 data 和 methods 属性，以往 data 返回对象中的属性、methods 中的方法需要直接定义在 Class 中，当做类的属性和方法
 
 ```ts
 @Component
 export default class HelloDecorator extends Vue {
-    count: number = 123 // 类属性相当于以前的 data
+  count: number = 123; // 类属性相当于以前的 data
 
-    add(): number { // 类方法就是以前的方法
-        this.count + 1
-    }
+  add(): number {
+    // 类方法就是以前的方法
+    this.count + 1;
+  }
 
-    // 获取计算属性
-    get total(): number {
-      return this.count + 1
-    }
+  // 获取计算属性
+  get total(): number {
+    return this.count + 1;
+  }
 
-    // 设置计算属性
-    set total(param:number): void {
-      this.count = param
-    }
+  // 设置计算属性
+  set total(param: number): void {
+    this.count = param;
+  }
 }
-
 ```
-
-
 
 ### @props
 
@@ -135,39 +122,23 @@ export default class YourComponent extends Vue {
 }
 ```
 
-
-
-
-
 ### @watch
 
 实际就是`Vue`中的监听器，如下：
 
-```vue
-import { Vue, Component, Watch } from 'vue-property-decorator'
-
-@Component
-export default class YourComponent extends Vue {
-  @Watch('child')
-  onChildChanged(val: string, oldVal: string) {}
-
-  @Watch('person', { immediate: true, deep: true })
-  onPersonChanged1(val: Person, oldVal: Person) {}
-
-  @Watch('person')
-  onPersonChanged2(val: Person, oldVal: Person) {}
-}
+```ts
+import { Vue, Component, Watch } from 'vue-property-decorator' @Component export
+default class YourComponent extends Vue { @Watch('child') onChildChanged(val:
+string, oldVal: string) {} @Watch('person', { immediate: true, deep: true })
+onPersonChanged1(val: Person, oldVal: Person) {} @Watch('person')
+onPersonChanged2(val: Person, oldVal: Person) {} }
 ```
-
-
-
-
 
 ### @emit
 
 `vue-property-decorator` 提供的 `@Emit` 装饰器就是代替`Vue `中的事件的触发`$emit`，如下：
 
-````TS
+```TS
 import {Vue, Component, Emit} from 'vue-property-decorator';
     @Component({})
     export default class Some extends Vue{
@@ -182,9 +153,7 @@ import {Vue, Component, Emit} from 'vue-property-decorator';
             console.log('hello');
         }
     }
-````
-
-
+```
 
 ## 三 、总结
 

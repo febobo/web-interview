@@ -13,7 +13,7 @@
 本仓库为语音打卡社群(JS每日一题)维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
 
 同时我们提供更好阅读体验的在线版本，[点这里](https://vue3js.cn/interview)   
-点击[@AD](https://static.vue-js.com/Fr6pvXKNio5Pe4kEHk0ufXdZ1sHT)添加好友，获取最新面试真题，加前端500人大群
+点击[@AD](https://vue3js.cn/assets/img/18141744641588_.pic.jpg)添加好友，获取最新面试真题，加前端500人大群
 
 避免失联可以先点star
 

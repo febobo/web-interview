@@ -49,7 +49,7 @@ performance.getEntriesByName("first-contentful-paint")[0].startTime
 
 常见的几种SPA首屏优化方式
 
-- 减小入口文件积
+- 减小入口文件体积
 - 静态资源本地缓存
 - UI框架按需加载
 - 图片资源的压缩
@@ -140,7 +140,7 @@ minChunks: 3
 拆完包之后，我们再用`gzip`做一下压缩 安装`compression-webpack-plugin`
 
 ```js
-cnmp i compression-webpack-plugin -D
+cnpm i compression-webpack-plugin -D
 ```
 
 在`vue.congig.js`中引入并修改`webpack`配置

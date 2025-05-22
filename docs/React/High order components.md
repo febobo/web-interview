@@ -57,7 +57,7 @@ export default (WrappedComponent) => {
 
 这里需要注意的是，高阶组件可以传递所有的`props`，但是不能传递`ref`
 
-如果向一个高阶组件添加`refe`引用，那么`ref` 指向的是最外层容器组件实例的，而不是被包裹的组件，如果需要传递`refs`的话，则使用`React.forwardRef`，如下：
+如果向一个高阶组件添加`ref`引用，那么`ref` 指向的是最外层容器组件实例的，而不是被包裹的组件，如果需要传递`refs`的话，则使用`React.forwardRef`，如下：
 
 ```jsx
 function withLogging(WrappedComponent) {

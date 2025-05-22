@@ -218,7 +218,7 @@ console.log('script end')
 
 1. 执行整段代码，遇到 `console.log('script start')` 直接打印结果，输出 `script start`
 2. 遇到定时器了，它是宏任务，先放着不执行
-3. 遇到 `async1()`，执行 `async1` 函数，先打印 `async1 start`，下面遇到` await `怎么办？先执行 `async2`，打印 `async2`，然后阻塞下面代码（即加入微任务列表），跳出去执行同步代码
+3. 遇到 `async1()`，执行 `async1` 函数，先打印 `async1 start`，下面遇到` await `怎么办？先执行 `async2`，打印 `async2`，然后阻塞下面代码（即加入微任务列表），跳出去执行同步代码。await 关键字在 async 函数内部确实会阻塞进一步的代码执行，但 await 后面跟随的 async 函数（即 async2()）的执行是立即的，直到 async2() 函数内部的所有同步代码执行完毕并返回一个 Promise（在这个例子中是隐式的，因为 async 函数总是返回 Promise）。然后，await 会等待这个 Promise 解析（resolve）或拒绝（reject），而不是将 async2() 的执行本身放入微任务队列。
 4. 跳到 `new Promise` 这里，直接执行，打印 `promise1`，下面遇到 `.then()`，它是微任务，放到微任务列表等待执行
 5. 最后一行直接打印 `script end`，现在同步代码执行完了，开始执行微任务，即 `await `下面的代码，打印 `async1 end`
 6. 继续执行下一个微任务，即执行 `then` 的回调，打印 `promise2`

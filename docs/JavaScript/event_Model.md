@@ -151,8 +151,8 @@ removeEventListener(eventType, handler, useCapture)
 
 ```js
 var btn = document.getElementById('.btn');
-btn.addEventListener(‘click’, showMessage, false);
-btn.removeEventListener(‘click’, showMessage, false);
+btn.addEventListener('click', showMessage, false);
+btn.removeEventListener('click', showMessage, false);
 ```
 
 #### 特性
@@ -160,9 +160,9 @@ btn.removeEventListener(‘click’, showMessage, false);
 - 可以在一个`DOM`元素上绑定多个事件处理器，各自并不会冲突
 
 ```js
-btn.addEventListener(‘click’, showMessage1, false);
-btn.addEventListener(‘click’, showMessage2, false);
-btn.addEventListener(‘click’, showMessage3, false);
+btn.addEventListener('click', showMessage1, false);
+btn.addEventListener('click', showMessage2, false);
+btn.addEventListener('click', showMessage3, false);
 ```
 
 - 执行时机
@@ -247,6 +247,6 @@ detachEvent(eventType, handler)
 
 ```js
 var btn = document.getElementById('.btn');
-btn.attachEvent(‘onclick’, showMessage);
-btn.detachEvent(‘onclick’, showMessage);
+btn.attachEvent('onclick', showMessage);
+btn.detachEvent('onclick', showMessage);
 ```

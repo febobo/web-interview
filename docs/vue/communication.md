@@ -52,15 +52,15 @@
 `Children.vue`
 
 ```js
-props:{  
-    // 字符串形式  
- name:String // 接收的类型参数  
-    // 对象形式  
-    age:{    
-        type:Number, // 接收的类型为数值  
-        defaule:18,  // 默认值为18  
-       require:true // age属性必须传递  
-    }  
+props: {
+    // 字符串形式  
+    name: String // 接收的类型参数  
+    // 对象形式  
+    age: {
+        type: Number, // 接收的类型为数值  
+        default: 18,  // 默认值为18  
+        require: true // age属性必须传递  
+    }
 }  
 ```
 
@@ -76,7 +76,7 @@ props:{
 - 子组件通过`$emit触发`自定义事件，`$emit`第二个参数为传递的数值
 - 父组件绑定监听器获取到子组件传递过来的参数
 
-`Chilfen.vue`
+`Children.vue`
 
 ```js
 this.$emit('add', good)  
@@ -111,7 +111,7 @@ this.$refs.foo  // 获取子组件实例，通过子组件实例我们就能�
 `Bus.js`
 
 ```js
-// 创建一个中央时间总线类  
+// 创建一个中央事件总线类  
 class Bus {  
   constructor() {  
     this.callbacks = {};   // 存放事件的名字  
@@ -147,7 +147,7 @@ this.$bus.$on('foo', this.handle)
 
 ### $parent 或$ root
 
-- 通过共同祖辈`$parent`或者`$root`搭建通信桥连
+- 通过共同祖辈`$parent`或者`$root`搭建通信桥梁
 
 兄弟组件
 
@@ -217,7 +217,7 @@ inject:['foo'] // 获取到祖先组件传递过来的值
 - `state`用来存放共享变量的地方
 - `getter`，可以增加一个`getter`派生状态，\(相当于`store`中的计算属性），用来获得共享变量的值
 - `mutations`用来存放修改`state`的方法。
-- `actions`也是用来存放修改state的方法，不过`action`是在`mutations`的基础上进行。常用来做一些异步操作
+- `actions`也是用来存放修改state的方法，不过`actions`是在`mutations`的基础上进行。常用来做一些异步操作
 
 ### 小结
 

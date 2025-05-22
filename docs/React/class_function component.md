@@ -210,7 +210,7 @@ class ProfilePage extends React.Component {
 }
 ```
 
-两者看起来实现功能是一致的，但是在类组件中，输出`this.props.user`，`Props `在 `React `中是不可变的所以它永远不会改变，但是 `this` 总是可变的，以便您可以在 `render` 和生命周期函数中读取新版本
+两者看起来实现功能是一致的，但是在类组件中，输出`this.props.user`，`Props `在 `React `中是不可变的，所以它永远不会改变，但是 `this` 总是可变的，以便您可以在 `render` 和生命周期函数中读取新版本
 
 因此，如果我们的组件在请求运行时更新。`this.props` 将会改变。`showMessage `方法从“最新”的 `props` 中读取 `user`
 

@@ -167,7 +167,7 @@ font-variant:偏大或偏小的字体
 
 ```css
 text-indent：文本缩进
-text-align：文本水平对刘
+text-align：文本水平对齐
 line-height：行高
 word-spacing：增加或减少单词间的空白
 letter-spacing：增加或减少字符间的空白
@@ -216,7 +216,7 @@ cursor：箭头可以变成需要的形状
 
 - a 标签的字体颜色不能被继承
 
-- h1-h6标签字体的大下也是不能被继承的
+- h1-h6标签字体的大小也是不能被继承的
 
 
 

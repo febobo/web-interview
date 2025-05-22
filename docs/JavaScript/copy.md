@@ -61,7 +61,7 @@ var obj = {
         console.log('fx is a great girl')
     }
 }
-var newObj = Object.assign({}, fxObj);
+var newObj = Object.assign({}, obj);
 ```
 
 
